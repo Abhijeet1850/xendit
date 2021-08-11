@@ -1,4 +1,4 @@
-Getting Started
+**Getting Started**
 1. Clone the master branch from Github. 
 2. Run mvn clean install -Dcucumber.options="--tags @test" -PXendit-qa-ui from CommandLine. 
  
@@ -9,7 +9,7 @@ Java >1.8
 Maven
 Chrome browser
 
-Framework Walkthrough 
+**Framework Walkthrough **
 
 1. src/test/resources/com/test/xendit/feature_ui : Consists of Feature file(CalculatorTest.feature) listing the scenarios. 
 2. src/test/java/com/test/xendit/feature_ui : Consists of the Runner file(ITRunCukes), Hooks(ManageCommon) and Step Definition(ManageCalculatorTestStepDef)
@@ -35,18 +35,19 @@ Framework Walkthrough
     
 Have configured the File Paths relative to both OS MAC and Windows, so logic of file paths reading should work in both OS.   
     
-To Run From IDE 
+**To Run From IDE **
 1. Right click feature file to run 
 2. Right the Runner File (ITRunCukes) to run the code.
 
-Reports 
+**Reports **
 1. After every successful run, the cucumber report link would come which would be valid for 24 hrs
 
+![image](https://user-images.githubusercontent.com/29858449/129104907-9f98e317-ad60-4fe3-8d0f-69db536f018c.png)
 
 
 
 
-Improvements ( Run code in Docker , to avoid environment/OS level issues)
+**Improvements ( Run code in Docker , to avoid environment/OS level issues)**
 
 1. Would package the code as Fat jar ( already added maven plugins to package both main and test folders in jar )
 2. Create Docker File to create docker image of FAT jar with entry point script using cucuber.api.cli.main to trigger tests
