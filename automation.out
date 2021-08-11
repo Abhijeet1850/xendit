@@ -1,0 +1,1022 @@
+2021-08-08 01:26:03 INFO  DriverFactory:71 - The driver executable does not exist: /Users/guptaabi/ProjectDir/xendit/src/main/java/com/test/xendit/driver\Mac\chromedriver
+2021-08-08 01:26:55 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 01:26:55 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 01:26:55 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 01:27:02 INFO  Homepage:40 - Fetch Calculator size details
+2021-08-08 01:27:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (75c3047b1024130a7d3d788b2104873b)] -> id: fullframe]for time : 10
+2021-08-08 01:27:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 01:29:56 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 01:29:56 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 01:29:56 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 01:30:02 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 01:30:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (80ad4a0d4be1127a9f17d6f1786df1c3)] -> id: fullframe]for time : 10
+2021-08-08 01:30:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 01:31:35 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 01:31:35 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 01:31:35 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 01:32:31 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 01:32:31 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 01:32:31 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 01:32:37 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 01:32:37 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (c49288d2b6633a6cac18fec23b103481)] -> id: fullframe]for time : 10
+2021-08-08 01:32:37 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:24:22 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 02:24:22 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:24:22 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:24:30 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:24:30 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (41bb2ef6f5f91af225e3fe58dbfac3cf)] -> id: fullframe]for time : 10
+2021-08-08 02:24:30 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:25:34 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 02:25:34 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:25:34 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:25:40 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:25:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4f8f1bb756f6be58ad019364def5de17)] -> id: fullframe]for time : 10
+2021-08-08 02:25:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:26:41 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 02:26:41 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:26:41 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:26:47 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:26:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (42b947fbd80cc01de5bbc6b939967e10)] -> id: fullframe]for time : 10
+2021-08-08 02:26:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:28:11 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 02:28:11 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:28:11 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:28:16 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:28:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (faff46e93b9753195f73cdc01d4d21d2)] -> id: fullframe]for time : 10
+2021-08-08 02:28:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:32:27 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 02:32:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:32:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:32:34 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:32:34 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (87aa994d9334c8060f26c62e9cf7fa1e)] -> id: fullframe]for time : 10
+2021-08-08 02:32:34 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:37:37 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 02:37:37 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:37:37 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:37:44 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:37:44 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (c6bc0054bef33c31d726505dd08b86a2)] -> id: fullframe]for time : 10
+2021-08-08 02:37:44 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 02:39:36 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 02:39:37 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 02:39:37 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 02:39:48 INFO  Homepage:41 - Fetch Calculator size details
+2021-08-08 02:39:48 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5b1159dad9b64cd4cfc03256f36091bd)] -> id: fullframe]for time : 10
+2021-08-08 02:39:48 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 16:51:01 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 16:51:01 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 16:51:01 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 16:51:11 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 16:51:11 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (0e393813bf3cf1251d69bf825f060c0d)] -> id: fullframe]for time : 10
+2021-08-08 16:51:12 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 16:51:57 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 16:51:57 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 16:51:57 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 16:52:04 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 16:52:04 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (78c7a51d334977982f8a2d7f6acb95fb)] -> id: fullframe]for time : 10
+2021-08-08 16:52:04 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 16:54:21 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 16:54:21 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 16:54:21 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 16:54:28 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 16:54:28 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d9c1889ad790dd02e1da6109a7258b1e)] -> id: fullframe]for time : 10
+2021-08-08 16:54:28 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 16:55:18 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 16:55:18 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 16:55:18 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 16:55:25 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 16:55:25 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4a9ab8c177b925a28028a94d04991dfe)] -> id: fullframe]for time : 10
+2021-08-08 16:55:25 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:04:45 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:04:45 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:04:45 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:04:51 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:04:51 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (761901a3f501bb13cb4c55d3741eb0ac)] -> id: fullframe]for time : 10
+2021-08-08 17:04:51 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:10:18 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:10:18 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:10:18 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:10:24 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:10:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (aef37af296d464ce5fb99f0e703c3183)] -> id: fullframe]for time : 10
+2021-08-08 17:10:25 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:12:01 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:12:01 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:12:01 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:12:09 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:12:09 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (b7f9ec72bb21b95c3a3b1b223c13edcc)] -> id: fullframe]for time : 10
+2021-08-08 17:12:09 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:20:42 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:20:42 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:20:42 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:20:49 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:20:49 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (6d78b4be0a07169d8a1eca321c227185)] -> id: fullframe]for time : 10
+2021-08-08 17:20:49 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:21:44 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:21:44 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:21:44 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:21:50 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:21:50 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (aa833d3caf5a73a33560edb2b77eefce)] -> id: fullframe]for time : 10
+2021-08-08 17:21:50 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:24:44 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:24:44 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:24:44 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:24:51 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:24:51 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5b51b14f5175743991b0fc7bd1433e58)] -> id: fullframe]for time : 10
+2021-08-08 17:24:51 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:25:34 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:25:34 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:25:34 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:25:39 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:25:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (831f12cda058c443533b39e302a25260)] -> id: fullframe]for time : 10
+2021-08-08 17:25:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:26:48 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:26:48 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:26:48 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:26:57 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:26:57 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ad6fea54ab799141b102c5079f5586cc)] -> id: fullframe]for time : 10
+2021-08-08 17:26:57 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:27:54 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:27:54 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:27:54 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:28:00 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:28:00 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (1563985858767fa334fde6fe4c499768)] -> id: fullframe]for time : 10
+2021-08-08 17:28:00 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:29:11 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:29:11 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:29:11 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:29:17 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:29:17 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (8debf24b4e2a6db060be3f5d668d4e5f)] -> id: fullframe]for time : 10
+2021-08-08 17:29:17 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:30:37 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:30:37 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:30:37 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:30:43 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:30:43 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (01dea971ea5350723a99701c0ac9d7c0)] -> id: fullframe]for time : 10
+2021-08-08 17:30:43 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:32:49 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:32:49 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:32:49 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:32:53 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:32:53 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a304c21dea60428ad2978fcd58ec5ac1)] -> id: fullframe]for time : 10
+2021-08-08 17:32:53 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:34:04 INFO  TestBase:29 - Initialize Web driver: 1925352804
+2021-08-08 17:34:04 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:34:04 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:34:11 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:34:11 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5c590ccb26d8e4aab269335b9beb9deb)] -> id: fullframe]for time : 10
+2021-08-08 17:34:12 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:35:54 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:35:54 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:35:54 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:35:59 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:35:59 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5d9d561a7799192f9bf007228d73517f)] -> id: fullframe]for time : 10
+2021-08-08 17:35:59 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 17:36:52 INFO  TestBase:29 - Initialize Web driver: 671596011
+2021-08-08 17:36:52 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 17:36:52 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 17:37:04 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 17:37:04 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (11649f38987bf4ac2bdecfc65292a814)] -> id: fullframe]for time : 10
+2021-08-08 17:37:04 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:00:38 INFO  TestBase:29 - Initialize Web driver: 247162961
+2021-08-08 18:00:38 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:00:38 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:00:43 INFO  Homepage:108 - Fetch Calculator size details
+2021-08-08 18:00:43 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (aa4ad42e1501a3148105f4c367741500)] -> id: fullframe]for time : 10
+2021-08-08 18:00:43 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:01:35 INFO  TestBase:29 - Initialize Web driver: 1890266440
+2021-08-08 18:01:35 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:01:35 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:01:41 INFO  Homepage:108 - Fetch Calculator size details
+2021-08-08 18:01:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ca0215571c1be40fd102bac3c691480c)] -> id: fullframe]for time : 10
+2021-08-08 18:01:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:01:42 INFO  Homepage:108 - Fetch Calculator size details
+2021-08-08 18:01:52 INFO  WaitHelper:93 - waiting for the element Proxy element for: DefaultElementLocator 'By.id: fullframe'for time : 10
+2021-08-08 18:03:00 INFO  TestBase:29 - Initialize Web driver: 247162961
+2021-08-08 18:03:00 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:03:01 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:03:08 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 18:03:08 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (62143623fa756f5934d951721c6d9617)] -> id: fullframe]for time : 10
+2021-08-08 18:03:08 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:03:40 INFO  TestBase:29 - Initialize Web driver: 247162961
+2021-08-08 18:03:40 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:03:40 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:03:47 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 18:03:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (333716b9afcbed9e4d0a82e8dfcc2a2f)] -> id: fullframe]for time : 10
+2021-08-08 18:03:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:06:50 INFO  TestBase:29 - Initialize Web driver: 1890266440
+2021-08-08 18:06:50 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:06:50 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:07:00 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 18:07:00 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (b89d2ba3b6335f6b32aa8c248f06d559)] -> id: fullframe]for time : 10
+2021-08-08 18:07:00 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:08:30 INFO  TestBase:29 - Initialize Web driver: 247162961
+2021-08-08 18:08:30 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:08:30 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:08:35 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 18:08:35 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (68252708bec6890bc483b6e3f2217582)] -> id: fullframe]for time : 10
+2021-08-08 18:08:35 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-08 18:09:09 INFO  TestBase:29 - Initialize Web driver: 1890266440
+2021-08-08 18:09:09 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:09:09 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:09:39 INFO  TestBase:29 - Initialize Web driver: 1890266440
+2021-08-08 18:09:39 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-08 18:09:39 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-08 18:09:48 INFO  Homepage:42 - Fetch Calculator size details
+2021-08-08 18:09:48 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (1642ded89757d06633716a738e6ae556)] -> id: fullframe]for time : 10
+2021-08-08 18:09:48 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 01:31:16 INFO  TestBase:29 - Initialize Web driver: 1204088028
+2021-08-09 01:31:16 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:31:16 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:31:25 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 01:31:25 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d8294ee76e02a330e5d7a528a1b23f97)] -> id: fullframe]for time : 10
+2021-08-09 01:31:25 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 01:31:38 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_01_31_37.png
+2021-08-09 01:33:49 INFO  TestBase:29 - Initialize Web driver: 1204088028
+2021-08-09 01:33:49 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:33:49 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:33:56 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 01:33:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (247b41aa22baaba83d9d26da439506c6)] -> id: fullframe]for time : 10
+2021-08-09 01:33:56 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 01:34:11 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_01_34_10.png
+2021-08-09 01:35:23 INFO  TestBase:29 - Initialize Web driver: 1123236701
+2021-08-09 01:35:23 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:35:23 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:36:32 INFO  TestBase:29 - Initialize Web driver: 1123236701
+2021-08-09 01:36:32 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:36:32 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:36:39 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 01:36:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e561b908dc9cebd7379de8ab067e68ac)] -> id: fullframe]for time : 10
+2021-08-09 01:36:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 01:36:48 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_01_36_47.png
+2021-08-09 01:37:50 INFO  TestBase:29 - Initialize Web driver: 94919826
+2021-08-09 01:37:50 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:37:50 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:37:56 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 01:37:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (53edc24cbdc27e31cbbbc79190bfb85f)] -> id: fullframe]for time : 10
+2021-08-09 01:37:56 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 01:38:06 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_01_38_05.png
+2021-08-09 01:42:27 INFO  TestBase:29 - Initialize Web driver: 847320212
+2021-08-09 01:42:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:42:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:46:26 INFO  TestBase:29 - Initialize Web driver: 1201004240
+2021-08-09 01:46:26 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 01:46:26 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 01:46:32 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 01:46:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a9c83ca84e6ac2473eff91734aceff80)] -> id: fullframe]for time : 10
+2021-08-09 01:46:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 01:46:41 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_01_46_41.png
+2021-08-09 02:02:08 INFO  TestBase:29 - Initialize Web driver: 852026681
+2021-08-09 02:02:08 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:02:08 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:02:15 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:02:15 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5ebd819ff6fbad79b2670d36c3824639)] -> id: fullframe]for time : 10
+2021-08-09 02:02:15 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:02:24 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_02_24.png
+2021-08-09 02:09:32 INFO  TestBase:29 - Initialize Web driver: 1201004240
+2021-08-09 02:09:32 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:09:32 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:09:39 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:09:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (8fe8a1f0fb38ea067d932793806d12ad)] -> id: fullframe]for time : 10
+2021-08-09 02:09:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:09:48 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_09_47.png
+2021-08-09 02:15:04 INFO  TestBase:29 - Initialize Web driver: 1201004240
+2021-08-09 02:15:04 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:15:04 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:15:12 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:15:12 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (332b9ceb6f629c4ad7da054654d8ae3f)] -> id: fullframe]for time : 10
+2021-08-09 02:15:12 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:15:21 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_15_20.png
+2021-08-09 02:22:31 INFO  TestBase:29 - Initialize Web driver: 1201004240
+2021-08-09 02:22:31 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:22:31 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:22:38 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:22:38 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (f84dce4803c1384af7bb83b798bff549)] -> id: fullframe]for time : 10
+2021-08-09 02:22:38 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:22:48 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_22_47.png
+2021-08-09 02:24:30 INFO  TestBase:29 - Initialize Web driver: 1201004240
+2021-08-09 02:24:30 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:24:30 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:24:36 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:24:36 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (468766be6d33fa6d20a3d64cb3003be3)] -> id: fullframe]for time : 10
+2021-08-09 02:24:36 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:24:45 INFO  TestBase:53 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_24_44.png
+2021-08-09 02:28:35 INFO  TestBase:30 - Initialize Web driver: 1201004240
+2021-08-09 02:28:35 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:28:35 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:28:43 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:28:43 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (82bfdea94763b94cd123e832307421fe)] -> id: fullframe]for time : 10
+2021-08-09 02:28:43 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:29:26 INFO  TestBase:30 - Initialize Web driver: 847320212
+2021-08-09 02:29:26 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:29:26 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:29:33 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:29:33 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (7faed8286fa758143135336ad5e1ac73)] -> id: fullframe]for time : 10
+2021-08-09 02:29:33 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:30:50 INFO  TestBase:30 - Initialize Web driver: 847320212
+2021-08-09 02:30:50 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:30:50 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:30:58 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:30:58 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (f8b6bf373469bc8576b107bc95b5b65e)] -> id: fullframe]for time : 10
+2021-08-09 02:30:59 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:38:03 INFO  TestBase:30 - Initialize Web driver: 847320212
+2021-08-09 02:38:03 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:38:03 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:38:10 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:38:10 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (8f5d3187220b1857d338e4fbb798289b)] -> id: fullframe]for time : 10
+2021-08-09 02:38:10 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:39:23 INFO  TestBase:30 - Initialize Web driver: 1201004240
+2021-08-09 02:39:23 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:39:24 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:39:32 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-09 02:39:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3bef0d7f69d6809e5f41da007fe08291)] -> id: fullframe]for time : 10
+2021-08-09 02:39:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:41:32 INFO  TestBase:30 - Initialize Web driver: 1201004240
+2021-08-09 02:41:32 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:41:32 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:41:41 INFO  Homepage:45 - Fetch Calculator size details
+2021-08-09 02:41:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (29b7c5c466f8849ed877efdcf69d14c1)] -> id: fullframe]for time : 10
+2021-08-09 02:41:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:46:02 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-09 02:46:03 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:46:03 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:46:10 INFO  Homepage:45 - Fetch Calculator size details
+2021-08-09 02:46:10 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (871eaa70f538af4318bf333af35e8699)] -> id: fullframe]for time : 10
+2021-08-09 02:46:10 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:46:18 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_46_18.png
+2021-08-09 02:47:06 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-09 02:47:06 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:47:06 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:47:12 INFO  Homepage:45 - Fetch Calculator size details
+2021-08-09 02:47:12 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5258f83a6c32bece4d4bd8a2bede897e)] -> id: fullframe]for time : 10
+2021-08-09 02:47:12 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:47:21 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_47_21.png
+2021-08-09 02:57:39 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-09 02:57:39 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-09 02:57:39 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-09 02:57:47 INFO  Homepage:45 - Fetch Calculator size details
+2021-08-09 02:57:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ed3ce3c4748caae56d697541b95c3799)] -> id: fullframe]for time : 10
+2021-08-09 02:57:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-09 02:57:55 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_09_08_2021_02_57_55.png
+2021-08-10 01:18:41 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 01:18:41 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 01:18:42 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 01:18:56 INFO  Homepage:45 - Fetch Calculator size details
+2021-08-10 01:18:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4b76658415a31e353b957a472b35696c)] -> id: fullframe]for time : 10
+2021-08-10 01:18:56 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 01:19:05 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_01_19_05.png
+2021-08-10 02:03:09 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 02:03:09 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:03:09 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:03:22 INFO  Homepage:47 - Fetch Calculator size details
+2021-08-10 02:03:22 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (47ae3d9b28273aa43e6a9bff191fbd2b)] -> id: fullframe]for time : 10
+2021-08-10 02:03:22 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:03:30 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_03_30.png
+2021-08-10 02:04:08 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 02:04:08 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:04:08 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:04:27 INFO  Homepage:47 - Fetch Calculator size details
+2021-08-10 02:04:27 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (561d5fd193765d5bbb61a15dbc6f761c)] -> id: fullframe]for time : 10
+2021-08-10 02:04:27 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:04:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_04_36.png
+2021-08-10 02:05:35 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 02:05:35 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:05:35 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:05:47 INFO  Homepage:47 - Fetch Calculator size details
+2021-08-10 02:05:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (284fcf747423bdf0978c333a5d427fb2)] -> id: fullframe]for time : 10
+2021-08-10 02:05:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:05:55 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_05_55.png
+2021-08-10 02:07:10 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 02:07:10 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:07:10 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:07:21 INFO  Homepage:47 - Fetch Calculator size details
+2021-08-10 02:07:21 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (38ff18bfeb34f75c6e3d7441d3412394)] -> id: fullframe]for time : 10
+2021-08-10 02:07:21 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:07:29 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_07_29.png
+2021-08-10 02:08:56 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 02:08:56 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:08:56 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:09:08 INFO  Homepage:47 - Fetch Calculator size details
+2021-08-10 02:09:08 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (9ef32fae52d2f1621bb62790b8e8b450)] -> id: fullframe]for time : 10
+2021-08-10 02:09:08 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:09:17 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_09_17.png
+2021-08-10 02:10:38 INFO  TestBase:30 - Initialize Web driver: 1026483832
+2021-08-10 02:10:38 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:10:38 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:10:51 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:10:51 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (8e7b749f7bf26dc12504776707cef310)] -> id: fullframe]for time : 10
+2021-08-10 02:10:51 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:10:59 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_10_59.png
+2021-08-10 02:40:55 INFO  TestBase:30 - Initialize Web driver: 1033917063
+2021-08-10 02:40:55 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:40:55 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:41:13 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:41:13 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (7feed639ff85cb392bd5998ecc2ada2f)] -> id: fullframe]for time : 10
+2021-08-10 02:41:13 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:41:21 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_41_21.png
+2021-08-10 02:41:28 INFO  TestBase:30 - Initialize Web driver: 2114537280
+2021-08-10 02:41:28 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:41:28 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:41:40 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:41:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (7f2117b159cc2c0bcfe02c3735597398)] -> id: fullframe]for time : 10
+2021-08-10 02:41:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:41:49 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_41_49.png
+2021-08-10 02:41:56 INFO  TestBase:30 - Initialize Web driver: 428245792
+2021-08-10 02:41:56 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:41:56 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:42:07 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:42:07 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (6cfaf88a3940f4160bcce0417aafb92a)] -> id: fullframe]for time : 10
+2021-08-10 02:42:07 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:42:15 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_42_15.png
+2021-08-10 02:42:21 INFO  TestBase:30 - Initialize Web driver: 1174687658
+2021-08-10 02:42:21 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:42:21 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:42:37 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:42:37 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (2daddbb79cff00fd9e3c247b7c9af4bd)] -> id: fullframe]for time : 10
+2021-08-10 02:42:37 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:42:45 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_42_45.png
+2021-08-10 02:45:28 INFO  TestBase:30 - Initialize Web driver: 1033917063
+2021-08-10 02:45:28 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:45:28 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:45:39 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:45:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (63121402538f856efec63cc51c645ade)] -> id: fullframe]for time : 10
+2021-08-10 02:45:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:45:47 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_45_47.png
+2021-08-10 02:45:53 INFO  TestBase:30 - Initialize Web driver: 2114537280
+2021-08-10 02:45:53 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:45:53 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:48:29 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 02:48:29 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:48:29 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:48:47 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:48:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e7d470114ca4a39e1d7fc223fe0a979e)] -> id: fullframe]for time : 10
+2021-08-10 02:48:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:48:55 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_48_55.png
+2021-08-10 02:49:00 INFO  TestBase:30 - Initialize Web driver: 1402531280
+2021-08-10 02:49:00 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:49:00 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:49:13 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:49:13 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (96ec1f840b78a1e67796d8c9184c07fe)] -> id: fullframe]for time : 10
+2021-08-10 02:49:13 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:49:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_49_22.png
+2021-08-10 02:50:18 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 02:50:18 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:50:18 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:50:30 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:50:30 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5973b8bf757cbb7a00425d25d3c8203b)] -> id: fullframe]for time : 10
+2021-08-10 02:50:30 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:50:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_50_39.png
+2021-08-10 02:53:30 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 02:53:30 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:53:30 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:53:45 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:53:45 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (939743d73a5de774947efec241f962ca)] -> id: fullframe]for time : 10
+2021-08-10 02:53:45 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:53:53 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_53_53.png
+2021-08-10 02:55:39 INFO  TestBase:30 - Initialize Web driver: 1243350866
+2021-08-10 02:55:39 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 02:55:39 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 02:55:54 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 02:55:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e15b1bf8b5563ed2ecd048e06777b3d9)] -> id: fullframe]for time : 10
+2021-08-10 02:55:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 02:56:26 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_02_56_26.png
+2021-08-10 03:00:27 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:00:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:00:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:00:40 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:00:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (6bd1f5472ed8841547b248baa9965d74)] -> id: fullframe]for time : 10
+2021-08-10 03:00:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:00:48 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_00_48.png
+2021-08-10 03:04:29 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:04:29 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:04:29 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:04:42 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:04:42 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (c2e8ac6140254883be1105ca2da4ac16)] -> id: fullframe]for time : 10
+2021-08-10 03:04:42 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:04:50 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_04_50.jpeg
+2021-08-10 03:06:01 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:06:01 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:06:01 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:06:13 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:06:13 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3727d67742ee2ce3759e2e4fcf90d4b3)] -> id: fullframe]for time : 10
+2021-08-10 03:06:13 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:06:21 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_06_21.png
+2021-08-10 03:10:27 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:10:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:10:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:10:45 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:10:45 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (edd9beb8bec955fefe9f9e4f90654001)] -> id: fullframe]for time : 10
+2021-08-10 03:10:45 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:10:53 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_10_53.png
+2021-08-10 03:14:23 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:14:23 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:14:23 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:14:37 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:14:37 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5ab0e5af6668190927bc1523630114b8)] -> id: fullframe]for time : 10
+2021-08-10 03:14:37 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:14:45 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_14_45.bmp
+2021-08-10 03:15:18 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:15:18 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:15:18 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:15:30 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:15:30 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5361fefea98820e6335f255f1b4629dd)] -> id: fullframe]for time : 10
+2021-08-10 03:15:30 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:15:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_15_39.jpg
+2021-08-10 03:17:12 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:17:12 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:17:12 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:18:01 INFO  TestBase:30 - Initialize Web driver: 1243350866
+2021-08-10 03:18:01 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:18:01 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:18:14 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:18:14 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (7b8355636a7a8b8bfdf8796b16d7a625)] -> id: fullframe]for time : 10
+2021-08-10 03:18:14 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:18:45 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_18_45.png
+2021-08-10 03:20:57 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:20:57 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:20:57 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:21:38 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:21:38 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:21:38 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:21:47 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:21:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (1703f8c699940642095cc1171564d172)] -> id: fullframe]for time : 10
+2021-08-10 03:21:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:21:56 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_21_56.png
+2021-08-10 03:22:24 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:22:24 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:22:24 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:22:36 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:22:36 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (eb76466da0cda90d02887d7d243beac7)] -> id: fullframe]for time : 10
+2021-08-10 03:22:36 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:22:44 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_22_44.png
+2021-08-10 03:23:51 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:23:51 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:23:51 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:24:02 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:24:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (628cea1f5915bb97be9f41d1c17eac14)] -> id: fullframe]for time : 10
+2021-08-10 03:24:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:24:11 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_24_11.png
+2021-08-10 03:25:04 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:25:04 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:25:04 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:25:18 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:25:18 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (5e06efd7ad4e37a57ca6af04c79b8288)] -> id: fullframe]for time : 10
+2021-08-10 03:25:18 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:25:26 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_25_26.png
+2021-08-10 03:25:35 INFO  TestBase:30 - Initialize Web driver: 82825098
+2021-08-10 03:25:35 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:25:35 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:25:51 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:25:51 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (1dd1b6fe1ffa64b1eb513930d5c80ee5)] -> id: fullframe]for time : 10
+2021-08-10 03:25:51 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:26:00 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_26_00.png
+2021-08-10 03:31:54 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:31:54 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:31:55 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:32:16 INFO  TestBase:30 - Initialize Web driver: 1577167234
+2021-08-10 03:32:16 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:32:16 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:32:24 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:32:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4797300c58c1d778300ce12bdbf46bf4)] -> id: fullframe]for time : 10
+2021-08-10 03:32:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:34:42 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:34:42 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:34:42 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:34:54 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:34:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (9c4a7ebd68a443b47f8628ca74685279)] -> id: fullframe]for time : 10
+2021-08-10 03:34:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:35:02 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_35_02.png
+2021-08-10 03:35:06 INFO  TestBase:30 - Initialize Web driver: 1057569470
+2021-08-10 03:35:06 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:35:06 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:35:18 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:35:18 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (977d0343dfa99464f93173523dda6deb)] -> id: fullframe]for time : 10
+2021-08-10 03:35:18 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:35:27 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_35_27.png
+2021-08-10 03:36:18 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:36:18 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:36:18 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:36:32 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:36:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e1f8917ec634651853dc7a128bd563e0)] -> id: fullframe]for time : 10
+2021-08-10 03:36:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:36:40 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_36_40.png
+2021-08-10 03:36:44 INFO  TestBase:30 - Initialize Web driver: 1057569470
+2021-08-10 03:36:44 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:36:44 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:37:27 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:37:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:37:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:37:40 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:37:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a66c2e8608fe8054d4c99609b1a373ba)] -> id: fullframe]for time : 10
+2021-08-10 03:37:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:37:49 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_37_49.png
+2021-08-10 03:37:54 INFO  TestBase:30 - Initialize Web driver: 108982313
+2021-08-10 03:37:54 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:37:54 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:38:06 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:38:06 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (846fa1a92aba0dea0e495b68b0f4b675)] -> id: fullframe]for time : 10
+2021-08-10 03:38:06 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:38:16 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_38_16.png
+2021-08-10 03:43:27 INFO  TestBase:30 - Initialize Web driver: 1677207406
+2021-08-10 03:43:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:43:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:43:40 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:43:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (9301f4752d3508e611fa583f9f91c25c)] -> id: fullframe]for time : 10
+2021-08-10 03:43:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:43:48 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_43_48.png
+2021-08-10 03:43:53 INFO  TestBase:30 - Initialize Web driver: 108982313
+2021-08-10 03:43:53 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 03:43:53 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 03:44:07 INFO  Homepage:48 - Fetch Calculator size details
+2021-08-10 03:44:07 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (11de14f0664ebe684a596ee1ef27182a)] -> id: fullframe]for time : 10
+2021-08-10 03:44:07 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 03:44:16 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_03_44_16.png
+2021-08-10 23:31:13 INFO  TestBase:30 - Initialize Web driver: 1912850431
+2021-08-10 23:31:13 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 23:31:13 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 23:31:24 INFO  Homepage:52 - Fetch Calculator size details
+2021-08-10 23:31:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (8fdea99fcb92717d786353ddcb88fff2)] -> id: fullframe]for time : 10
+2021-08-10 23:31:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 23:31:32 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_11_31_32.png
+2021-08-10 23:31:38 INFO  TestBase:30 - Initialize Web driver: 1726616678
+2021-08-10 23:31:38 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 23:31:38 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 23:32:37 INFO  TestBase:30 - Initialize Web driver: 1912850431
+2021-08-10 23:32:37 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 23:32:37 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 23:32:44 INFO  Homepage:52 - Fetch Calculator size details
+2021-08-10 23:32:44 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a2b0f28bc518b8d743c69d3298ebcc50)] -> id: fullframe]for time : 10
+2021-08-10 23:32:44 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 23:32:52 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_11_32_52.png
+2021-08-10 23:32:57 INFO  TestBase:30 - Initialize Web driver: 1629454900
+2021-08-10 23:32:57 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-10 23:32:57 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-10 23:33:02 INFO  Homepage:52 - Fetch Calculator size details
+2021-08-10 23:33:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (feb0b39c3e0bf0d630c866354999a25e)] -> id: fullframe]for time : 10
+2021-08-10 23:33:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-10 23:33:11 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_10_08_2021_11_33_11.png
+2021-08-11 01:18:11 INFO  TestBase:30 - Initialize Web driver: 408069119
+2021-08-11 01:18:11 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:18:11 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:18:32 INFO  TestBase:30 - Initialize Web driver: 234740890
+2021-08-11 01:18:32 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:18:32 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:18:39 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:18:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a723735f592dc9f620907862a6ed909a)] -> id: fullframe]for time : 10
+2021-08-11 01:18:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:18:46 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_18_46.png
+2021-08-11 01:19:10 INFO  TestBase:30 - Initialize Web driver: 408069119
+2021-08-11 01:19:10 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:19:10 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:19:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:19:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (98f7cb66a252506b3204d2f9c61703c8)] -> id: fullframe]for time : 10
+2021-08-11 01:19:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:19:23 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_19_22.png
+2021-08-11 01:19:27 INFO  TestBase:30 - Initialize Web driver: 697460450
+2021-08-11 01:19:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:19:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:21:03 INFO  TestBase:30 - Initialize Web driver: 408069119
+2021-08-11 01:21:03 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:21:03 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:21:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:21:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (28ea3a3baf69ce4ff8d136bed384c944)] -> id: fullframe]for time : 10
+2021-08-11 01:21:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:21:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_21_22.png
+2021-08-11 01:21:26 INFO  TestBase:30 - Initialize Web driver: 1806378373
+2021-08-11 01:21:26 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:21:26 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:21:32 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:21:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (0b155f76d3c8242f93f5c0297470cf12)] -> id: fullframe]for time : 10
+2021-08-11 01:21:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:21:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_21_39.png
+2021-08-11 01:40:47 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 01:40:48 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:40:48 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:40:54 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:40:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4f2f2a284c96694ca6f173dabd5067d9)] -> id: fullframe]for time : 10
+2021-08-11 01:40:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:41:00 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_41_00.png
+2021-08-11 01:41:04 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:41:04 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4f2f2a284c96694ca6f173dabd5067d9)] -> id: fullframe]for time : 10
+2021-08-11 01:41:04 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:41:11 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_41_11.png
+2021-08-11 01:41:13 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:41:13 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4f2f2a284c96694ca6f173dabd5067d9)] -> id: fullframe]for time : 10
+2021-08-11 01:41:13 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:41:19 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_41_19.png
+2021-08-11 01:41:20 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:41:20 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (4f2f2a284c96694ca6f173dabd5067d9)] -> id: fullframe]for time : 10
+2021-08-11 01:41:20 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:41:27 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_41_26.png
+2021-08-11 01:44:03 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 01:44:03 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:44:03 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:44:09 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:44:09 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (170a692cf22c6b67c02a5b744863ca34)] -> id: fullframe]for time : 10
+2021-08-11 01:44:09 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:44:16 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_44_16.png
+2021-08-11 01:44:18 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:44:19 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (170a692cf22c6b67c02a5b744863ca34)] -> id: fullframe]for time : 10
+2021-08-11 01:44:19 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:44:26 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_44_26.png
+2021-08-11 01:44:27 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:44:27 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (170a692cf22c6b67c02a5b744863ca34)] -> id: fullframe]for time : 10
+2021-08-11 01:44:27 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:44:34 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_44_33.png
+2021-08-11 01:44:36 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:44:36 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (170a692cf22c6b67c02a5b744863ca34)] -> id: fullframe]for time : 10
+2021-08-11 01:44:36 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:44:42 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_44_42.png
+2021-08-11 01:47:13 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 01:47:13 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:47:13 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:47:18 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:47:18 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3a176c29e4925dde613e97516a05fa38)] -> id: fullframe]for time : 10
+2021-08-11 01:47:18 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:47:25 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_47_25.png
+2021-08-11 01:47:28 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:47:28 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3a176c29e4925dde613e97516a05fa38)] -> id: fullframe]for time : 10
+2021-08-11 01:47:28 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:47:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_47_35.png
+2021-08-11 01:47:37 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:47:37 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3a176c29e4925dde613e97516a05fa38)] -> id: fullframe]for time : 10
+2021-08-11 01:47:37 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:47:43 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_47_43.png
+2021-08-11 01:47:45 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:47:45 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3a176c29e4925dde613e97516a05fa38)] -> id: fullframe]for time : 10
+2021-08-11 01:47:45 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:47:51 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_47_51.png
+2021-08-11 01:51:08 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 01:51:08 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:51:08 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:51:15 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:51:15 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (cf76e0755a930318e142773c1799c7de)] -> id: fullframe]for time : 10
+2021-08-11 01:51:15 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:51:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_51_21.png
+2021-08-11 01:51:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:51:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (cf76e0755a930318e142773c1799c7de)] -> id: fullframe]for time : 10
+2021-08-11 01:51:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:51:31 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_51_31.png
+2021-08-11 01:51:33 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:51:33 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (cf76e0755a930318e142773c1799c7de)] -> id: fullframe]for time : 10
+2021-08-11 01:51:33 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:51:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_51_39.png
+2021-08-11 01:51:41 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:51:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (cf76e0755a930318e142773c1799c7de)] -> id: fullframe]for time : 10
+2021-08-11 01:51:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:51:47 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_51_47.png
+2021-08-11 01:53:08 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 01:53:08 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 01:53:08 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 01:53:13 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:53:13 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a3fd2a153abf7cbfeb39bc3fafc83ce7)] -> id: fullframe]for time : 10
+2021-08-11 01:53:14 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:53:20 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_53_20.png
+2021-08-11 01:53:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:53:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a3fd2a153abf7cbfeb39bc3fafc83ce7)] -> id: fullframe]for time : 10
+2021-08-11 01:53:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:53:31 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_53_31.png
+2021-08-11 01:53:33 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:53:33 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a3fd2a153abf7cbfeb39bc3fafc83ce7)] -> id: fullframe]for time : 10
+2021-08-11 01:53:33 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:53:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_53_39.png
+2021-08-11 01:53:41 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 01:53:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a3fd2a153abf7cbfeb39bc3fafc83ce7)] -> id: fullframe]for time : 10
+2021-08-11 01:53:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 01:53:47 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_01_53_47.png
+2021-08-11 02:01:10 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 02:01:10 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 02:01:10 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 02:01:31 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:01:31 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (60a6f66c4c7805f699fe8acb3b90365f)] -> id: fullframe]for time : 10
+2021-08-11 02:01:31 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:01:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_01_38.png
+2021-08-11 02:02:39 INFO  TestBase:30 - Initialize Web driver: 573487274
+2021-08-11 02:02:39 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 02:02:39 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 02:02:45 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:02:45 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (67f156307405734f716a640c45e2373e)] -> id: fullframe]for time : 10
+2021-08-11 02:02:45 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:02:52 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_02_51.png
+2021-08-11 02:02:54 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:02:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (67f156307405734f716a640c45e2373e)] -> id: fullframe]for time : 10
+2021-08-11 02:02:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:03:01 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_03_01.png
+2021-08-11 02:03:03 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:03:03 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (67f156307405734f716a640c45e2373e)] -> id: fullframe]for time : 10
+2021-08-11 02:03:03 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:03:09 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_03_09.png
+2021-08-11 02:03:11 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:03:11 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (67f156307405734f716a640c45e2373e)] -> id: fullframe]for time : 10
+2021-08-11 02:03:11 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:03:17 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_03_17.png
+2021-08-11 02:06:37 INFO  TestBase:30 - Initialize Web driver: 505231702
+2021-08-11 02:06:37 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 02:06:37 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 02:06:43 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:06:43 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ed618940ed7d54b5e940cc791b28c6ae)] -> id: fullframe]for time : 10
+2021-08-11 02:06:43 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:06:50 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_06_49.png
+2021-08-11 02:06:53 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:06:53 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ed618940ed7d54b5e940cc791b28c6ae)] -> id: fullframe]for time : 10
+2021-08-11 02:06:53 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:07:00 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_07_00.png
+2021-08-11 02:07:02 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:07:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ed618940ed7d54b5e940cc791b28c6ae)] -> id: fullframe]for time : 10
+2021-08-11 02:07:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:07:08 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_07_08.png
+2021-08-11 02:07:10 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 02:07:10 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (ed618940ed7d54b5e940cc791b28c6ae)] -> id: fullframe]for time : 10
+2021-08-11 02:07:10 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 02:07:16 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_02_07_16.png
+2021-08-11 10:08:08 INFO  TestBase:30 - Initialize Web driver: 878598679
+2021-08-11 10:08:08 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 10:08:08 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 10:08:14 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 10:08:14 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e1a5e33464bb966e6f7cba56e0e63bc9)] -> id: fullframe]for time : 10
+2021-08-11 10:08:14 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 10:08:21 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_10_08_21.png
+2021-08-11 10:08:25 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 10:08:25 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e1a5e33464bb966e6f7cba56e0e63bc9)] -> id: fullframe]for time : 10
+2021-08-11 10:08:25 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 10:08:32 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_10_08_32.png
+2021-08-11 10:08:33 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 10:08:34 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e1a5e33464bb966e6f7cba56e0e63bc9)] -> id: fullframe]for time : 10
+2021-08-11 10:08:34 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 10:08:40 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_10_08_40.png
+2021-08-11 10:08:41 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 10:08:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e1a5e33464bb966e6f7cba56e0e63bc9)] -> id: fullframe]for time : 10
+2021-08-11 10:08:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 10:08:48 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_10_08_47.png
+2021-08-11 11:44:53 INFO  TestBase:30 - Initialize Web driver: 2056234595
+2021-08-11 11:44:53 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 11:44:53 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 11:45:08 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:45:08 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:45:08 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:45:14 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_45_14.png
+2021-08-11 11:45:22 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:45:22 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:45:22 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:45:29 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_45_29.png
+2021-08-11 11:45:35 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:45:35 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:45:35 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:45:41 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_45_41.png
+2021-08-11 11:45:46 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:45:46 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:45:46 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:45:52 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_45_52.png
+2021-08-11 11:45:58 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:45:58 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:45:58 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:46:03 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_46_03.png
+2021-08-11 11:46:08 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:46:08 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:46:08 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:46:14 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_46_13.png
+2021-08-11 11:46:18 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:46:18 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:46:18 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:46:23 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_46_23.png
+2021-08-11 11:46:27 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:46:27 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:46:27 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:46:33 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_46_33.png
+2021-08-11 11:46:38 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:46:38 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:46:38 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:46:44 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_46_44.png
+2021-08-11 11:46:49 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:46:49 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:46:49 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:46:58 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_46_58.png
+2021-08-11 11:47:03 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:47:03 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:47:03 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:47:11 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_47_11.png
+2021-08-11 11:47:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:47:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:47:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:47:21 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:47:21 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:47:21 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:47:26 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:47:26 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e0fba37a9ee0f6a86fcb773701e57f38)] -> id: fullframe]for time : 10
+2021-08-11 11:47:26 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:47:32 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_47_32.png
+2021-08-11 11:51:27 INFO  TestBase:30 - Initialize Web driver: 2056234595
+2021-08-11 11:51:27 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 11:51:27 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 11:51:50 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:51:50 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:51:50 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:51:57 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_51_57.png
+2021-08-11 11:52:02 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:52:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:52:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:52:08 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_52_08.png
+2021-08-11 11:52:11 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:52:11 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:52:11 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:52:17 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_52_17.png
+2021-08-11 11:52:22 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:52:22 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:52:22 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:52:28 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_52_28.png
+2021-08-11 11:52:31 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:52:31 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:52:31 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:52:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_52_36.png
+2021-08-11 11:52:40 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:52:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:52:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:52:45 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_52_45.png
+2021-08-11 11:52:56 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:52:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:52:57 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:53:02 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_53_02.png
+2021-08-11 11:53:10 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:53:10 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:53:10 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:53:15 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_53_15.png
+2021-08-11 11:53:21 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:53:21 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:53:21 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:53:30 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_53_29.png
+2021-08-11 11:53:32 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:53:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:53:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:53:40 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_53_40.png
+2021-08-11 11:53:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:53:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:53:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:53:51 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_53_50.png
+2021-08-11 11:53:56 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:53:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:53:56 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:54:00 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_54_00.png
+2021-08-11 11:54:05 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 11:54:05 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (15eba2c7b759ee3f84205c3ad77801aa)] -> id: fullframe]for time : 10
+2021-08-11 11:54:05 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 11:54:11 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_11_54_11.png
+2021-08-11 12:37:10 INFO  TestBase:30 - Initialize Web driver: 2056234595
+2021-08-11 12:37:10 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 12:37:10 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-11 12:37:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:37:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:37:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:37:31 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_37_30.png
+2021-08-11 12:37:36 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:37:36 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:37:36 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:37:43 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_37_43.png
+2021-08-11 12:37:48 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:37:48 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:37:48 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:37:54 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_37_54.png
+2021-08-11 12:37:59 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:37:59 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:37:59 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:38:05 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_38_04.png
+2021-08-11 12:38:09 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:38:09 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:38:09 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:38:15 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_38_15.png
+2021-08-11 12:38:20 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:38:20 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:38:20 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:38:25 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_38_25.png
+2021-08-11 12:38:28 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:38:28 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:38:28 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:38:33 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_38_33.png
+2021-08-11 12:38:46 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:38:46 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:38:46 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:38:52 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_38_52.png
+2021-08-11 12:38:56 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:38:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:38:56 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:39:02 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_39_01.png
+2021-08-11 12:39:06 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:39:06 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:39:06 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:39:15 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_39_14.png
+2021-08-11 12:39:20 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:39:20 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:39:20 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:39:27 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_39_27.png
+2021-08-11 12:39:32 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:39:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:39:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:39:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_39_36.png
+2021-08-11 12:39:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:39:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:39:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:39:51 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_39_51.png
+2021-08-11 12:39:55 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-11 12:39:55 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a85a702ad3ec616b131b135f56b8329b)] -> id: fullframe]for time : 10
+2021-08-11 12:39:55 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-11 12:40:01 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_11_08_2021_12_40_00.png
+2021-08-11 13:02:25 INFO  TestBase:30 - Initialize Web driver: 2056234595
+2021-08-11 13:02:26 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-11 13:02:26 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS

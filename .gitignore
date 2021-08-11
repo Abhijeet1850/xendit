@@ -1,0 +1,13 @@
+**/target/
+**/.project
+**/.settings
+**/.classpath
+**/pom.xml.bak
+interfaces/src/test/java/META-INF/
+**/.idea/
+**/.idea
+**/*iml
+*.iml
+bin/
+.DS_Store
+**/*.log
