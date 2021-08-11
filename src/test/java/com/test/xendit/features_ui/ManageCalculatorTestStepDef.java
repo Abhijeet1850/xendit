@@ -13,9 +13,9 @@ import org.assertj.core.api.Assertions;
 import java.util.List;
 import java.util.Map;
 
-public class ManageCalculatorScenario extends TestBase {
+public class ManageCalculatorTestStepDef extends TestBase {
 
-    private Logger log = LoggerHelper.getLogger(ManageCalculatorScenario.class);
+    private Logger log = LoggerHelper.getLogger(ManageCalculatorTestStepDef.class);
     CalculatorMainPage calcPage = new CalculatorMainPage(driver);
     PropertyReader reader = new PropertyReader();
 
@@ -30,7 +30,7 @@ public class ManageCalculatorScenario extends TestBase {
         for (Map<String, String> map : data) {
             calcPage.enterNumberOrOperator(map.get("value1"));
             calcPage.enterNumberOrOperator(map.get("operator"));
-            if ( (map.get("value2") !=null) || (!map.get("value2").equals(""))) {
+            if (map.get("value2") != null) {
                 calcPage.enterNumberOrOperator(map.get("value2"));
                 calcPage.enterNumberOrOperator("=");
             }

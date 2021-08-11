@@ -1020,3 +1020,1440 @@
 2021-08-11 13:02:25 INFO  TestBase:30 - Initialize Web driver: 2056234595
 2021-08-11 13:02:26 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
 2021-08-11 13:02:26 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:10:33 INFO  TestBase:30 - Initialize Web driver: 1801422599
+2021-08-12 00:10:33 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:10:33 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:10:46 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:10:46 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:10:46 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:10:53 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_10_53.png
+2021-08-12 00:10:57 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:10:57 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:10:57 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:05 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_05.png
+2021-08-12 00:11:07 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:07 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:07 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:13 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_13.png
+2021-08-12 00:11:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_22.png
+2021-08-12 00:11:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:30 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_30.png
+2021-08-12 00:11:32 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:32 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:37 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_37.png
+2021-08-12 00:11:40 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:40 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:40 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:45 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_45.png
+2021-08-12 00:11:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:11:53 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_11_53.png
+2021-08-12 00:11:55 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:11:55 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:11:55 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:12:01 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_12_01.png
+2021-08-12 00:12:03 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:12:03 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:12:03 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:12:12 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_12_11.png
+2021-08-12 00:12:14 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:12:14 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:12:14 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:12:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_12_22.png
+2021-08-12 00:12:25 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:12:25 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:12:25 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:12:29 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_12_28.png
+2021-08-12 00:12:30 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:12:30 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:12:30 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:12:34 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_12_34.png
+2021-08-12 00:12:35 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:12:35 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (dc7ef73b9cd016fc8a218137977aff33)] -> id: fullframe]for time : 10
+2021-08-12 00:12:35 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:12:42 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_12_41.png
+2021-08-12 00:14:56 INFO  TestBase:30 - Initialize Web driver: 843005078
+2021-08-12 00:14:56 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:14:56 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:15:03 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:15:03 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (a465e284c8e6416c50ec7cdd18154533)] -> id: fullframe]for time : 10
+2021-08-12 00:15:03 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:15:59 INFO  TestBase:30 - Initialize Web driver: 843005078
+2021-08-12 00:15:59 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:15:59 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:16:06 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:16:06 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e10ad9632bc293c00263f62f240ca9c3)] -> id: fullframe]for time : 10
+2021-08-12 00:16:06 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:16:48 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_16_48.png
+2021-08-12 00:16:52 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:16:52 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e10ad9632bc293c00263f62f240ca9c3)] -> id: fullframe]for time : 10
+2021-08-12 00:16:52 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:17:00 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_17_00.png
+2021-08-12 00:17:03 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:17:03 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e10ad9632bc293c00263f62f240ca9c3)] -> id: fullframe]for time : 10
+2021-08-12 00:17:03 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:17:06 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_17_06.png
+2021-08-12 00:18:05 INFO  TestBase:30 - Initialize Web driver: 506775047
+2021-08-12 00:18:05 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:18:05 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:18:11 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:18:11 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (578a0767e5d44477349926f3c0f3197e)] -> id: fullframe]for time : 10
+2021-08-12 00:18:11 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:18:17 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_18_17.png
+2021-08-12 00:18:21 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:18:21 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (578a0767e5d44477349926f3c0f3197e)] -> id: fullframe]for time : 10
+2021-08-12 00:18:21 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:18:27 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_18_27.png
+2021-08-12 00:18:29 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:18:29 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (578a0767e5d44477349926f3c0f3197e)] -> id: fullframe]for time : 10
+2021-08-12 00:18:29 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:18:33 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_18_33.png
+2021-08-12 00:18:36 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:18:36 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (578a0767e5d44477349926f3c0f3197e)] -> id: fullframe]for time : 10
+2021-08-12 00:18:36 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:18:40 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_18_39.png
+2021-08-12 00:18:42 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:18:42 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (578a0767e5d44477349926f3c0f3197e)] -> id: fullframe]for time : 10
+2021-08-12 00:18:42 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:18:48 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_18_48.png
+2021-08-12 00:19:49 INFO  TestBase:30 - Initialize Web driver: 843005078
+2021-08-12 00:19:49 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:19:49 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:19:59 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:19:59 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (76f89ef82e86cd40ff54ecdf1377a9c1)] -> id: fullframe]for time : 10
+2021-08-12 00:19:59 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:20:12 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_20_12.png
+2021-08-12 00:20:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:20:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (76f89ef82e86cd40ff54ecdf1377a9c1)] -> id: fullframe]for time : 10
+2021-08-12 00:20:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:20:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_20_36.png
+2021-08-12 00:23:06 INFO  TestBase:30 - Initialize Web driver: 506775047
+2021-08-12 00:23:06 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:23:06 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:23:12 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:23:12 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d352ae3afa1847ebd4c87618b4929809)] -> id: fullframe]for time : 10
+2021-08-12 00:23:12 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:23:19 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_23_18.png
+2021-08-12 00:23:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:23:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d352ae3afa1847ebd4c87618b4929809)] -> id: fullframe]for time : 10
+2021-08-12 00:23:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:23:29 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_23_29.png
+2021-08-12 00:23:31 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:23:31 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d352ae3afa1847ebd4c87618b4929809)] -> id: fullframe]for time : 10
+2021-08-12 00:23:31 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:23:35 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_23_35.png
+2021-08-12 00:23:38 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:23:38 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d352ae3afa1847ebd4c87618b4929809)] -> id: fullframe]for time : 10
+2021-08-12 00:23:38 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:23:42 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_23_41.png
+2021-08-12 00:23:44 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:23:44 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d352ae3afa1847ebd4c87618b4929809)] -> id: fullframe]for time : 10
+2021-08-12 00:23:44 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:23:50 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_23_50.png
+2021-08-12 00:33:07 INFO  TestBase:30 - Initialize Web driver: 506775047
+2021-08-12 00:33:07 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:33:07 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:33:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:33:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (88231d3ce6f75987f2ae87eceb685a07)] -> id: fullframe]for time : 10
+2021-08-12 00:33:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:33:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_33_22.png
+2021-08-12 00:33:27 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:33:27 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (88231d3ce6f75987f2ae87eceb685a07)] -> id: fullframe]for time : 10
+2021-08-12 00:33:27 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:33:33 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_33_33.png
+2021-08-12 00:33:35 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:33:35 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (88231d3ce6f75987f2ae87eceb685a07)] -> id: fullframe]for time : 10
+2021-08-12 00:33:35 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:33:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_33_39.png
+2021-08-12 00:33:42 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:33:42 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (88231d3ce6f75987f2ae87eceb685a07)] -> id: fullframe]for time : 10
+2021-08-12 00:33:42 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:33:46 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_33_45.png
+2021-08-12 00:33:48 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:33:48 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (88231d3ce6f75987f2ae87eceb685a07)] -> id: fullframe]for time : 10
+2021-08-12 00:33:48 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:33:54 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_33_54.png
+2021-08-12 00:36:16 INFO  TestBase:30 - Initialize Web driver: 506775047
+2021-08-12 00:36:16 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 00:36:16 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 00:36:22 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:36:22 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (fb7f4feedc29af1aa6ae198f79d39e81)] -> id: fullframe]for time : 10
+2021-08-12 00:36:22 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:36:29 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_36_29.png
+2021-08-12 00:36:32 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:36:32 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (fb7f4feedc29af1aa6ae198f79d39e81)] -> id: fullframe]for time : 10
+2021-08-12 00:36:33 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:36:39 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_36_39.png
+2021-08-12 00:36:41 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:36:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (fb7f4feedc29af1aa6ae198f79d39e81)] -> id: fullframe]for time : 10
+2021-08-12 00:36:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:36:45 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_36_45.png
+2021-08-12 00:36:48 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:36:48 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (fb7f4feedc29af1aa6ae198f79d39e81)] -> id: fullframe]for time : 10
+2021-08-12 00:36:48 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:36:51 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_36_51.png
+2021-08-12 00:36:54 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 00:36:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (fb7f4feedc29af1aa6ae198f79d39e81)] -> id: fullframe]for time : 10
+2021-08-12 00:36:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 00:37:00 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_12_37_00.png
+2021-08-12 01:03:52 INFO  TestBase:30 - Initialize Web driver: 451959555
+2021-08-12 01:03:52 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 01:03:52 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 01:04:00 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:00 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:00 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:07 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_07.png
+2021-08-12 01:04:11 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:11 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:11 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:18 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_18.png
+2021-08-12 01:04:21 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:21 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:21 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:27 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_27.png
+2021-08-12 01:04:30 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:30 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:30 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_35.png
+2021-08-12 01:04:38 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:38 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:38 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:44 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_44.png
+2021-08-12 01:04:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:52 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_52.png
+2021-08-12 01:04:54 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:04:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:04:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:04:59 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_04_59.png
+2021-08-12 01:05:02 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:07 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_07.png
+2021-08-12 01:05:10 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:10 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:10 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:15 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_15.png
+2021-08-12 01:05:18 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:18 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:18 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:26 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_26.png
+2021-08-12 01:05:29 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:29 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:29 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_36.png
+2021-08-12 01:05:39 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:43 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_42.png
+2021-08-12 01:05:46 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:46 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:46 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:50 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_50.png
+2021-08-12 01:05:52 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:05:52 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:05:52 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:05:57 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_05_57.png
+2021-08-12 01:06:00 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:00 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:00 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:06 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:06 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:06 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:12 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_06_12.png
+2021-08-12 01:06:15 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:15 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:15 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:21 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_06_21.png
+2021-08-12 01:06:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:27 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:27 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:27 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:31 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_06_31.png
+2021-08-12 01:06:34 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:34 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:34 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:44 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_06_44.png
+2021-08-12 01:06:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:06:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (04461a0c2c54baf4ec1890eccb765346)] -> id: fullframe]for time : 10
+2021-08-12 01:06:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:06:53 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_06_53.png
+2021-08-12 01:08:39 INFO  TestBase:30 - Initialize Web driver: 451959555
+2021-08-12 01:08:39 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 01:08:39 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 01:08:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:08:47 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:08:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:08:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:08:47 INFO  CalculatorMainPage:119 - 0 , 3
+2021-08-12 01:08:47 INFO  CalculatorMainPage:120 - 7
+2021-08-12 01:08:47 INFO  CalculatorMainPage:129 - Key --> : 56 , 353
+2021-08-12 01:08:47 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:08:47 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:08:47 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:08:48 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:08:48 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:08:48 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:08:49 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:08:49 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:08:49 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:08:50 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:08:50 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:08:50 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:08:50 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:08:50 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:08:50 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:08:50 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:08:50 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:08:50 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:08:51 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:08:51 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:08:51 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:08:54 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_08_53.png
+2021-08-12 01:08:55 INFO  CalculatorMainPage:105 - 5
+“MB
+GEEK].
+BEBE.
+[BBC-E]
+
+
+2021-08-12 01:08:55 INFO  CalculatorMainPage:108 - 5length of string is : --> 1
+2021-08-12 01:08:55 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:08:55 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:08:55 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:08:57 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:08:57 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:08:57 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:08:57 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:08:57 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 01:08:57 INFO  CalculatorMainPage:120 - 2
+2021-08-12 01:08:57 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 01:08:57 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:08:57 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:08:57 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:08:58 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:08:58 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:08:58 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:08:58 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:08:58 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:08:58 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:08:59 INFO  CalculatorMainPage:119 - 3 , 5
+2021-08-12 01:08:59 INFO  CalculatorMainPage:120 - -
+2021-08-12 01:08:59 INFO  CalculatorMainPage:129 - Key --> : 395 , 561
+2021-08-12 01:09:00 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:09:00 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:09:00 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:09:00 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:00 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:00 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:00 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:00 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:00 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:01 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:01 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:01 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:02 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:02 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:02 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:04 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_04.png
+2021-08-12 01:09:05 INFO  CalculatorMainPage:105 - 1500
+“MB
+GEEK].
+DEBB-
+EJDnE]
+
+
+2021-08-12 01:09:05 INFO  CalculatorMainPage:108 - 1500length of string is : --> 4
+2021-08-12 01:09:05 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:05 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:05 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:07 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:07 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:07 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:07 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:07 INFO  CalculatorMainPage:119 - 0 , 4
+2021-08-12 01:09:07 INFO  CalculatorMainPage:120 - 4
+2021-08-12 01:09:07 INFO  CalculatorMainPage:129 - Key --> : 56 , 457
+2021-08-12 01:09:07 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:07 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:07 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:08 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:08 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:08 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:09 INFO  CalculatorMainPage:119 - 3 , 6
+2021-08-12 01:09:09 INFO  CalculatorMainPage:120 - +
+2021-08-12 01:09:09 INFO  CalculatorMainPage:129 - Key --> : 395 , 665
+2021-08-12 01:09:10 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 01:09:10 INFO  CalculatorMainPage:120 - 2
+2021-08-12 01:09:10 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 01:09:10 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:10 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:10 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:11 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:11 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:11 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:13 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_13.png
+2021-08-12 01:09:14 INFO  CalculatorMainPage:105 - 420
+“MB
+GREEK].
+BEBE.
+
+
+2021-08-12 01:09:14 INFO  CalculatorMainPage:108 - 420length of string is : --> 3
+2021-08-12 01:09:14 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:14 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:14 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:16 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:16 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:09:16 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:09:16 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:09:16 INFO  CalculatorMainPage:119 - 2 , 6
+2021-08-12 01:09:16 INFO  CalculatorMainPage:120 - +/-
+2021-08-12 01:09:16 INFO  CalculatorMainPage:129 - Key --> : 282 , 665
+2021-08-12 01:09:17 INFO  CalculatorMainPage:119 - 3 , 4
+2021-08-12 01:09:17 INFO  CalculatorMainPage:120 - *
+2021-08-12 01:09:17 INFO  CalculatorMainPage:129 - Key --> : 395 , 457
+2021-08-12 01:09:18 INFO  CalculatorMainPage:119 - 2 , 5
+2021-08-12 01:09:18 INFO  CalculatorMainPage:120 - 3
+2021-08-12 01:09:18 INFO  CalculatorMainPage:129 - Key --> : 282 , 561
+2021-08-12 01:09:18 INFO  CalculatorMainPage:119 - 2 , 6
+2021-08-12 01:09:18 INFO  CalculatorMainPage:120 - +/-
+2021-08-12 01:09:18 INFO  CalculatorMainPage:129 - Key --> : 282 , 665
+2021-08-12 01:09:19 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:19 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:19 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:22 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_22.png
+2021-08-12 01:09:22 INFO  CalculatorMainPage:105 - 18
+HHHHI
+nn@@n
+@@@@n
+nanam
+@QE!;
+
+
+2021-08-12 01:09:22 INFO  CalculatorMainPage:108 - 18length of string is : --> 2
+2021-08-12 01:09:23 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:23 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:23 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:24 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:24 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:24 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:24 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:24 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:09:24 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:09:24 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:09:25 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:25 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:25 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:25 INFO  CalculatorMainPage:119 - 2 , 6
+2021-08-12 01:09:25 INFO  CalculatorMainPage:120 - +/-
+2021-08-12 01:09:25 INFO  CalculatorMainPage:129 - Key --> : 282 , 665
+2021-08-12 01:09:26 INFO  CalculatorMainPage:119 - 3 , 4
+2021-08-12 01:09:26 INFO  CalculatorMainPage:120 - *
+2021-08-12 01:09:26 INFO  CalculatorMainPage:129 - Key --> : 395 , 457
+2021-08-12 01:09:27 INFO  CalculatorMainPage:119 - 2 , 5
+2021-08-12 01:09:27 INFO  CalculatorMainPage:120 - 3
+2021-08-12 01:09:27 INFO  CalculatorMainPage:129 - Key --> : 282 , 561
+2021-08-12 01:09:27 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:27 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:27 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:28 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:28 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:28 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:30 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_30.png
+2021-08-12 01:09:31 INFO  CalculatorMainPage:105 - -1800
+“MB
+GEEK].
+DEBB-
+EJDnE]
+
+
+2021-08-12 01:09:31 INFO  CalculatorMainPage:108 - -1800length of string is : --> 5
+2021-08-12 01:09:31 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:31 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:31 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:33 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:33 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:33 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:33 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:33 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:09:33 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:09:33 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:09:34 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:09:34 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:09:34 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:09:35 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:35 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:35 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:36 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:36 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:36 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:38 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_38.png
+2021-08-12 01:09:39 INFO  CalculatorMainPage:105 - Error
+LBLEJLELE C
+IIIEB
+@@@@I
+IBBII
+E]E]IIE]
+
+
+2021-08-12 01:09:39 INFO  CalculatorMainPage:108 - Errorlength of string is : --> 5
+2021-08-12 01:09:39 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:39 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:39 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:41 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:41 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:41 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:41 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:41 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:42 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:09:42 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:09:42 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:09:43 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:09:43 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:09:43 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:09:44 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:44 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:44 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:46 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_46.png
+2021-08-12 01:09:47 INFO  CalculatorMainPage:105 - 0
+“MB
+GEEK].
+BEBE.
+[BBC-E]
+
+
+2021-08-12 01:09:47 INFO  CalculatorMainPage:108 - 0length of string is : --> 1
+2021-08-12 01:09:47 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:47 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:47 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:49 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:49 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:49 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:49 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:49 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:09:49 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:09:49 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:09:50 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:09:50 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:09:50 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:09:51 INFO  CalculatorMainPage:119 - 2 , 5
+2021-08-12 01:09:51 INFO  CalculatorMainPage:120 - 3
+2021-08-12 01:09:51 INFO  CalculatorMainPage:129 - Key --> : 282 , 561
+2021-08-12 01:09:51 INFO  CalculatorMainPage:119 - 2 , 6
+2021-08-12 01:09:51 INFO  CalculatorMainPage:120 - +/-
+2021-08-12 01:09:51 INFO  CalculatorMainPage:129 - Key --> : 282 , 665
+2021-08-12 01:09:52 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:09:52 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:09:52 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:09:54 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_09_54.png
+2021-08-12 01:09:55 INFO  CalculatorMainPage:105 - -3
+LEJLEJLMJLE C
+“MB
+ENSEM-
+“BBB.
+[BBC-El
+
+
+2021-08-12 01:09:55 INFO  CalculatorMainPage:108 - -3length of string is : --> 2
+2021-08-12 01:09:55 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:09:55 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:09:55 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:09:57 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:09:57 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:09:57 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:09:57 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:09:57 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:09:57 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:09:57 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:09:57 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:09:57 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:09:57 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:09:58 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:09:58 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:09:58 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:09:59 INFO  CalculatorMainPage:119 - 2 , 5
+2021-08-12 01:09:59 INFO  CalculatorMainPage:120 - 3
+2021-08-12 01:09:59 INFO  CalculatorMainPage:129 - Key --> : 282 , 561
+2021-08-12 01:10:00 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:10:00 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:10:00 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:10:02 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_02.png
+2021-08-12 01:10:03 INFO  CalculatorMainPage:105 - 3.33333333
+IIIEJB
+EEJEJEJI
+IEBII
+EJEJII =
+
+
+2021-08-12 01:10:03 INFO  CalculatorMainPage:108 - 3.33333333length of string is : --> 10
+2021-08-12 01:10:03 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:03 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:03 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:05 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:05 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:05 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:05 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:06 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:06 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:06 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:06 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:06 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:06 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:06 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:06 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:06 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:07 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:07 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:07 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:07 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:07 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:07 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:07 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:07 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:07 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:08 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:08 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:08 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:08 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:08 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:08 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:08 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:08 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:08 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:09 INFO  CalculatorMainPage:119 - 3 , 4
+2021-08-12 01:10:09 INFO  CalculatorMainPage:120 - *
+2021-08-12 01:10:09 INFO  CalculatorMainPage:129 - Key --> : 395 , 457
+2021-08-12 01:10:10 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:10:10 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:10:10 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:10:10 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:10 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:10 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:11 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:10:11 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:10:11 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:10:14 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_14.png
+2021-08-12 01:10:14 INFO  CalculatorMainPage:105 - 10e+9
+IIIEJB
+EMBEJEJI
+IBBII
+EDII =
+
+
+2021-08-12 01:10:14 INFO  CalculatorMainPage:108 - 10e+9length of string is : --> 5
+2021-08-12 01:10:15 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:15 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:15 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:16 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:16 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:16 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:16 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:16 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:10:16 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:10:16 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:10:17 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:10:17 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:10:17 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:10:18 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:10:18 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:10:18 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:10:18 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:18 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:18 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:19 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:19 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:19 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:19 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:19 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:19 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:19 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:19 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:19 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:20 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:20 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:20 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:20 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:20 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:20 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:20 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:20 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:20 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:21 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:21 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:21 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:22 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:10:22 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:10:22 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:10:24 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_24.png
+2021-08-12 01:10:24 INFO  CalculatorMainPage:105 - 1e-8
+“MB
+EMBEJEJI
+BEBE.
+@Bﬂ!;
+
+
+2021-08-12 01:10:24 INFO  CalculatorMainPage:108 - 1e-8length of string is : --> 4
+2021-08-12 01:10:25 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:25 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:25 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:26 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:27 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:27 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:27 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:27 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 01:10:27 INFO  CalculatorMainPage:120 - 2
+2021-08-12 01:10:27 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 01:10:27 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:10:27 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:10:27 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:10:28 INFO  CalculatorMainPage:119 - 4 , 3
+2021-08-12 01:10:28 INFO  CalculatorMainPage:120 - sqrt
+2021-08-12 01:10:28 INFO  CalculatorMainPage:129 - Key --> : 508 , 353
+2021-08-12 01:10:30 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_30.png
+2021-08-12 01:10:31 INFO  CalculatorMainPage:105 - 5
+wwwwc
+“ENE v
+E]@E]E]I
+DEBB-
+@@aa@
+
+
+2021-08-12 01:10:31 INFO  CalculatorMainPage:108 - 5length of string is : --> 1
+2021-08-12 01:10:31 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:31 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:31 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:33 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:33 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:33 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:33 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:33 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:10:33 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:10:33 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:10:33 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:33 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:33 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:34 INFO  CalculatorMainPage:119 - 4 , 5
+2021-08-12 01:10:34 INFO  CalculatorMainPage:120 - 1/x
+2021-08-12 01:10:34 INFO  CalculatorMainPage:129 - Key --> : 508 , 561
+2021-08-12 01:10:37 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_37.png
+2021-08-12 01:10:37 INFO  CalculatorMainPage:105 - 0.1
+an@@n
+@@@@n
+naaum
+QQEBB
+
+
+2021-08-12 01:10:37 INFO  CalculatorMainPage:108 - 0.1length of string is : --> 3
+2021-08-12 01:10:38 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:38 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:38 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:39 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:39 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:39 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:10:39 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:10:39 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:10:40 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:40 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:40 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:40 INFO  CalculatorMainPage:119 - 1 , 6
+2021-08-12 01:10:40 INFO  CalculatorMainPage:120 - .
+2021-08-12 01:10:40 INFO  CalculatorMainPage:129 - Key --> : 169 , 665
+2021-08-12 01:10:40 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:10:40 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:10:40 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:10:41 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:41 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:41 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:42 INFO  CalculatorMainPage:119 - 4 , 3
+2021-08-12 01:10:42 INFO  CalculatorMainPage:120 - sqrt
+2021-08-12 01:10:42 INFO  CalculatorMainPage:129 - Key --> : 508 , 353
+2021-08-12 01:10:44 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_44.png
+2021-08-12 01:10:44 INFO  CalculatorMainPage:105 - 8.34805367
+IIEJB v
+EEJEJEJI
+IEBII
+EJDIIEJ
+
+
+2021-08-12 01:10:44 INFO  CalculatorMainPage:108 - 8.34805367length of string is : --> 10
+2021-08-12 01:10:45 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:45 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:45 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:47 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:47 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:47 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:47 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:47 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:47 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:47 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:47 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:47 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:47 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:48 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:48 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:48 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:48 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:48 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:48 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:48 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:48 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:48 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:49 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:49 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:49 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:49 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:49 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:49 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:49 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:49 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:49 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:50 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:10:50 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:10:50 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:10:51 INFO  CalculatorMainPage:119 - 4 , 4
+2021-08-12 01:10:51 INFO  CalculatorMainPage:120 - %
+2021-08-12 01:10:51 INFO  CalculatorMainPage:129 - Key --> : 508 , 457
+2021-08-12 01:10:53 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_10_53.png
+2021-08-12 01:10:53 INFO  CalculatorMainPage:105 - 999999999
+IIIEJB
+GEEK] %
+IEBII
+EJDIIEJ
+
+
+2021-08-12 01:10:53 INFO  CalculatorMainPage:108 - 999999999length of string is : --> 9
+2021-08-12 01:10:54 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:10:54 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:10:54 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:10:55 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:10:55 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:10:56 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:10:56 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:10:56 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:56 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:56 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:56 INFO  CalculatorMainPage:119 - 1 , 6
+2021-08-12 01:10:56 INFO  CalculatorMainPage:120 - .
+2021-08-12 01:10:56 INFO  CalculatorMainPage:129 - Key --> : 169 , 665
+2021-08-12 01:10:56 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:56 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:56 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:57 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:57 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:57 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:57 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:57 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:57 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:57 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:57 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:57 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:58 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:58 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:58 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:58 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:58 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:58 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:58 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:58 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:58 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:59 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:10:59 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:10:59 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:10:59 INFO  CalculatorMainPage:119 - 4 , 5
+2021-08-12 01:10:59 INFO  CalculatorMainPage:120 - 1/x
+2021-08-12 01:10:59 INFO  CalculatorMainPage:129 - Key --> : 508 , 561
+2021-08-12 01:11:02 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_11_02.png
+2021-08-12 01:11:02 INFO  CalculatorMainPage:105 - Error
+LEMEJLMJLE C
+IIIE][B
+E]@E]E]I
+IBBI/x
+E]E]IIE]
+
+
+2021-08-12 01:11:02 INFO  CalculatorMainPage:108 - Errorlength of string is : --> 5
+2021-08-12 01:11:03 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:11:03 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:11:03 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:11:04 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:11:04 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:11:04 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:11:05 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:11:05 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:05 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:05 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:05 INFO  CalculatorMainPage:119 - 1 , 6
+2021-08-12 01:11:05 INFO  CalculatorMainPage:120 - .
+2021-08-12 01:11:05 INFO  CalculatorMainPage:129 - Key --> : 169 , 665
+2021-08-12 01:11:05 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:05 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:05 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:06 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:06 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:06 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:06 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:06 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:06 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:06 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:06 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:06 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:07 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:07 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:07 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:07 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:07 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:07 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:07 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:07 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:07 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:08 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:11:08 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:11:08 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:11:08 INFO  CalculatorMainPage:119 - 4 , 5
+2021-08-12 01:11:08 INFO  CalculatorMainPage:120 - 1/x
+2021-08-12 01:11:08 INFO  CalculatorMainPage:129 - Key --> : 508 , 561
+2021-08-12 01:11:11 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_11_11.png
+2021-08-12 01:11:11 INFO  CalculatorMainPage:105 - 11111111.1
+“MB
+GEEK].
+llﬂﬂﬂwx
+EJDnE]
+
+
+2021-08-12 01:11:11 INFO  CalculatorMainPage:108 - 11111111.1length of string is : --> 10
+2021-08-12 01:11:12 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:11:12 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:11:12 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:11:13 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:11:13 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:11:13 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:11:13 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:11:13 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:13 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:13 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:14 INFO  CalculatorMainPage:119 - 4 , 4
+2021-08-12 01:11:14 INFO  CalculatorMainPage:120 - %
+2021-08-12 01:11:14 INFO  CalculatorMainPage:129 - Key --> : 508 , 457
+2021-08-12 01:11:17 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_11_17.png
+2021-08-12 01:11:17 INFO  CalculatorMainPage:105 - 0
+wwwwc
+“MB
+GEEK] %
+DEBB-
+@@aa@
+
+
+2021-08-12 01:11:17 INFO  CalculatorMainPage:108 - 0length of string is : --> 1
+2021-08-12 01:11:18 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:11:18 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:11:18 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:11:19 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:11:19 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:11:19 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:11:19 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:11:19 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:11:19 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:11:19 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:11:20 INFO  CalculatorMainPage:119 - 4 , 5
+2021-08-12 01:11:20 INFO  CalculatorMainPage:120 - 1/x
+2021-08-12 01:11:20 INFO  CalculatorMainPage:129 - Key --> : 508 , 561
+2021-08-12 01:11:23 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_11_23.png
+2021-08-12 01:11:23 INFO  CalculatorMainPage:105 - 0.16666667
+“MB
+GEEK].
+llﬂﬂﬂwx
+EJDllEJ
+
+
+2021-08-12 01:11:23 INFO  CalculatorMainPage:108 - 0.16666667length of string is : --> 10
+2021-08-12 01:11:24 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:11:24 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:11:24 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:11:25 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:11:25 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:11:25 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:11:25 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:11:25 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:11:25 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:11:25 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:11:26 INFO  CalculatorMainPage:119 - 1 , 3
+2021-08-12 01:11:26 INFO  CalculatorMainPage:120 - 8
+2021-08-12 01:11:26 INFO  CalculatorMainPage:129 - Key --> : 169 , 353
+2021-08-12 01:11:26 INFO  CalculatorMainPage:119 - 0 , 3
+2021-08-12 01:11:26 INFO  CalculatorMainPage:120 - 7
+2021-08-12 01:11:26 INFO  CalculatorMainPage:129 - Key --> : 56 , 353
+2021-08-12 01:11:26 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:11:26 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:11:26 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:11:27 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:11:27 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:11:27 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:11:27 INFO  CalculatorMainPage:119 - 0 , 4
+2021-08-12 01:11:27 INFO  CalculatorMainPage:120 - 4
+2021-08-12 01:11:27 INFO  CalculatorMainPage:129 - Key --> : 56 , 457
+2021-08-12 01:11:27 INFO  CalculatorMainPage:119 - 2 , 5
+2021-08-12 01:11:27 INFO  CalculatorMainPage:120 - 3
+2021-08-12 01:11:27 INFO  CalculatorMainPage:129 - Key --> : 282 , 561
+2021-08-12 01:11:28 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 01:11:28 INFO  CalculatorMainPage:120 - 2
+2021-08-12 01:11:28 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 01:11:28 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:11:28 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:11:28 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:11:29 INFO  CalculatorMainPage:119 - 3 , 6
+2021-08-12 01:11:29 INFO  CalculatorMainPage:120 - +
+2021-08-12 01:11:29 INFO  CalculatorMainPage:129 - Key --> : 395 , 665
+2021-08-12 01:11:30 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:11:30 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:11:30 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:11:30 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 01:11:30 INFO  CalculatorMainPage:120 - 2
+2021-08-12 01:11:30 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 01:11:30 INFO  CalculatorMainPage:119 - 2 , 5
+2021-08-12 01:11:30 INFO  CalculatorMainPage:120 - 3
+2021-08-12 01:11:30 INFO  CalculatorMainPage:129 - Key --> : 282 , 561
+2021-08-12 01:11:31 INFO  CalculatorMainPage:119 - 0 , 4
+2021-08-12 01:11:31 INFO  CalculatorMainPage:120 - 4
+2021-08-12 01:11:31 INFO  CalculatorMainPage:129 - Key --> : 56 , 457
+2021-08-12 01:11:31 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:11:31 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:11:31 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:11:31 INFO  CalculatorMainPage:119 - 2 , 4
+2021-08-12 01:11:31 INFO  CalculatorMainPage:120 - 6
+2021-08-12 01:11:31 INFO  CalculatorMainPage:129 - Key --> : 282 , 457
+2021-08-12 01:11:32 INFO  CalculatorMainPage:119 - 0 , 3
+2021-08-12 01:11:32 INFO  CalculatorMainPage:120 - 7
+2021-08-12 01:11:32 INFO  CalculatorMainPage:129 - Key --> : 56 , 353
+2021-08-12 01:11:32 INFO  CalculatorMainPage:119 - 1 , 3
+2021-08-12 01:11:32 INFO  CalculatorMainPage:120 - 8
+2021-08-12 01:11:32 INFO  CalculatorMainPage:129 - Key --> : 169 , 353
+2021-08-12 01:11:32 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:11:32 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:11:32 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:11:33 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:11:33 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:11:33 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:11:36 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_11_36.png
+2021-08-12 01:11:36 INFO  CalculatorMainPage:105 - 1.111111e+9
+“MB
+GEEK].
+DEBB-
+EJEJ“ =
+
+
+2021-08-12 01:11:36 INFO  CalculatorMainPage:108 - 1.111111e+9length of string is : --> 11
+2021-08-12 01:11:37 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:11:37 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:11:37 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:11:38 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:11:38 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:11:38 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (3794413f750ae26461bf0dadc9a29bd8)] -> id: fullframe]for time : 10
+2021-08-12 01:11:38 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:11:38 INFO  CalculatorMainPage:119 - 1 , 3
+2021-08-12 01:11:38 INFO  CalculatorMainPage:120 - 8
+2021-08-12 01:11:38 INFO  CalculatorMainPage:129 - Key --> : 169 , 353
+2021-08-12 01:11:39 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:39 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:39 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:39 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:11:39 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:11:39 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:11:40 INFO  CalculatorMainPage:119 - 3 , 4
+2021-08-12 01:11:40 INFO  CalculatorMainPage:120 - *
+2021-08-12 01:11:40 INFO  CalculatorMainPage:129 - Key --> : 395 , 457
+2021-08-12 01:11:41 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:11:41 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:11:41 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:11:41 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:11:41 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:11:41 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:11:42 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:11:42 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:11:42 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:11:44 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_11_44.png
+2021-08-12 01:11:45 INFO  CalculatorMainPage:105 - 12000
+“MB
+GEEK].
+BEBE.
+[BB-ﬂ =
+
+
+2021-08-12 01:11:45 INFO  CalculatorMainPage:108 - 12000length of string is : --> 5
+2021-08-12 01:11:45 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:11:45 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:11:45 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:15:34 INFO  TestBase:30 - Initialize Web driver: 1448277333
+2021-08-12 01:15:34 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 01:15:34 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 01:15:41 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:15:41 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:15:41 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e9118090e53fc9d48ceba43b386f84ff)] -> id: fullframe]for time : 10
+2021-08-12 01:15:41 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:15:41 INFO  CalculatorMainPage:119 - 0 , 3
+2021-08-12 01:15:41 INFO  CalculatorMainPage:120 - 7
+2021-08-12 01:15:41 INFO  CalculatorMainPage:129 - Key --> : 56 , 353
+2021-08-12 01:15:41 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:15:41 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:15:41 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:15:42 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:15:42 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:15:42 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:15:43 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:15:43 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:15:43 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:15:43 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:15:43 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:15:43 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:15:44 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:15:44 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:15:44 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:15:44 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:15:44 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:15:44 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:15:45 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:15:45 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:15:45 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:15:47 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_15_47.png
+2021-08-12 01:15:50 INFO  CalculatorMainPage:105 - 5
+wwwwc
+an@@n
+@@@@n
+DEBB-
+@@aa=
+
+
+2021-08-12 01:15:50 INFO  CalculatorMainPage:108 - 5length of string is : --> 1
+2021-08-12 01:15:50 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:15:50 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:15:50 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:15:52 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:15:52 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:15:52 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e9118090e53fc9d48ceba43b386f84ff)] -> id: fullframe]for time : 10
+2021-08-12 01:15:52 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:15:52 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:52 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:52 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:53 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:53 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:53 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:53 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:53 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:53 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:54 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:54 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:54 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:54 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:54 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:54 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:54 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:54 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:54 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:55 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:55 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:55 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:55 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:55 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:55 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:55 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:15:55 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:15:55 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:15:56 INFO  CalculatorMainPage:119 - 4 , 4
+2021-08-12 01:15:56 INFO  CalculatorMainPage:120 - %
+2021-08-12 01:15:56 INFO  CalculatorMainPage:129 - Key --> : 508 , 457
+2021-08-12 01:15:59 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_15_58.png
+2021-08-12 01:15:59 INFO  CalculatorMainPage:105 - 999999999
+IIIEJB
+GEEK] %
+IEBII
+EJDIIEJ
+
+
+2021-08-12 01:15:59 INFO  CalculatorMainPage:108 - 999999999length of string is : --> 9
+2021-08-12 01:15:59 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:15:59 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:15:59 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:16:01 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:16:01 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:16:01 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (e9118090e53fc9d48ceba43b386f84ff)] -> id: fullframe]for time : 10
+2021-08-12 01:16:01 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:16:01 INFO  CalculatorMainPage:119 - 1 , 3
+2021-08-12 01:16:01 INFO  CalculatorMainPage:120 - 8
+2021-08-12 01:16:01 INFO  CalculatorMainPage:129 - Key --> : 169 , 353
+2021-08-12 01:16:02 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:16:02 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:16:02 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:16:02 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:16:02 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:16:02 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:16:03 INFO  CalculatorMainPage:119 - 3 , 4
+2021-08-12 01:16:03 INFO  CalculatorMainPage:120 - *
+2021-08-12 01:16:03 INFO  CalculatorMainPage:129 - Key --> : 395 , 457
+2021-08-12 01:16:04 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:16:04 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:16:04 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:16:04 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:16:04 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:16:04 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:16:05 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:16:05 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:16:05 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:16:07 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_16_07.png
+2021-08-12 01:16:08 INFO  CalculatorMainPage:105 - 12000
+“MB
+GEEK].
+BEBE.
+[BB-ﬂ =
+
+
+2021-08-12 01:16:08 INFO  CalculatorMainPage:108 - 12000length of string is : --> 5
+2021-08-12 01:16:08 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:16:08 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:16:08 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:17:37 INFO  TestBase:30 - Initialize Web driver: 506775047
+2021-08-12 01:17:37 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 01:17:38 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 01:17:44 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:17:44 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:17:44 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d67aa5cc728c2935ac320c73475e31d8)] -> id: fullframe]for time : 10
+2021-08-12 01:17:44 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:17:45 INFO  CalculatorMainPage:119 - 0 , 3
+2021-08-12 01:17:45 INFO  CalculatorMainPage:120 - 7
+2021-08-12 01:17:45 INFO  CalculatorMainPage:129 - Key --> : 56 , 353
+2021-08-12 01:17:45 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:17:45 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:17:45 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:17:45 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:17:45 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:17:45 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:17:46 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 01:17:46 INFO  CalculatorMainPage:120 - /
+2021-08-12 01:17:46 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 01:17:47 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:17:47 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:17:47 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:17:47 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:17:47 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:17:47 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:17:48 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:17:48 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:17:48 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:17:48 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:17:48 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:17:49 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:17:51 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_17_51.png
+2021-08-12 01:17:52 INFO  CalculatorMainPage:105 - 5
+wwwwc
+an@@n
+@@@@n
+DEBB-
+@@aa=
+
+
+2021-08-12 01:17:52 INFO  CalculatorMainPage:108 - 5length of string is : --> 1
+2021-08-12 01:17:52 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:17:52 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:17:52 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:17:54 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:17:54 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:17:54 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d67aa5cc728c2935ac320c73475e31d8)] -> id: fullframe]for time : 10
+2021-08-12 01:17:54 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:17:54 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:17:54 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:17:54 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:17:55 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:17:55 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:17:55 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:17:55 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:17:55 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:17:55 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:17:55 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:17:55 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:17:55 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:17:56 INFO  CalculatorMainPage:119 - 2 , 3
+2021-08-12 01:17:56 INFO  CalculatorMainPage:120 - 9
+2021-08-12 01:17:56 INFO  CalculatorMainPage:129 - Key --> : 282 , 353
+2021-08-12 01:17:57 INFO  CalculatorMainPage:119 - 4 , 4
+2021-08-12 01:17:57 INFO  CalculatorMainPage:120 - %
+2021-08-12 01:17:57 INFO  CalculatorMainPage:129 - Key --> : 508 , 457
+2021-08-12 01:17:59 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_17_59.png
+2021-08-12 01:17:59 INFO  CalculatorMainPage:105 - 999.99
+“MB
+GEEK] %
+DEBB-
+EJDnE]
+
+
+2021-08-12 01:17:59 INFO  CalculatorMainPage:108 - 999.99length of string is : --> 6
+2021-08-12 01:18:00 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:18:00 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:18:00 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 01:18:01 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 01:18:01 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 01:18:01 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (d67aa5cc728c2935ac320c73475e31d8)] -> id: fullframe]for time : 10
+2021-08-12 01:18:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 01:18:02 INFO  CalculatorMainPage:119 - 1 , 3
+2021-08-12 01:18:02 INFO  CalculatorMainPage:120 - 8
+2021-08-12 01:18:02 INFO  CalculatorMainPage:129 - Key --> : 169 , 353
+2021-08-12 01:18:02 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:18:02 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:18:02 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:18:02 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 01:18:02 INFO  CalculatorMainPage:120 - 0
+2021-08-12 01:18:02 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 01:18:03 INFO  CalculatorMainPage:119 - 3 , 4
+2021-08-12 01:18:03 INFO  CalculatorMainPage:120 - *
+2021-08-12 01:18:03 INFO  CalculatorMainPage:129 - Key --> : 395 , 457
+2021-08-12 01:18:04 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 01:18:04 INFO  CalculatorMainPage:120 - 1
+2021-08-12 01:18:04 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 01:18:04 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 01:18:04 INFO  CalculatorMainPage:120 - 5
+2021-08-12 01:18:04 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 01:18:05 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 01:18:05 INFO  CalculatorMainPage:120 - =
+2021-08-12 01:18:05 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 01:18:08 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_01_18_08.png
+2021-08-12 01:18:08 INFO  CalculatorMainPage:105 - 12000
+“MB
+GEEK].
+BEBE.
+[BB-ﬂ =
+
+
+2021-08-12 01:18:08 INFO  CalculatorMainPage:108 - 12000length of string is : --> 5
+2021-08-12 01:18:09 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 01:18:09 INFO  CalculatorMainPage:120 - CE
+2021-08-12 01:18:09 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 02:47:32 INFO  TestBase:30 - Initialize Web driver: 2002097394
+2021-08-12 02:47:32 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2021-08-12 02:47:32 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2021-08-12 02:47:39 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 02:47:39 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 02:47:39 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (f8aa905213684b4f4d6bb23cbc08bea0)] -> id: fullframe]for time : 10
+2021-08-12 02:47:39 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 02:47:39 INFO  CalculatorMainPage:119 - 0 , 3
+2021-08-12 02:47:39 INFO  CalculatorMainPage:120 - 7
+2021-08-12 02:47:39 INFO  CalculatorMainPage:129 - Key --> : 56 , 353
+2021-08-12 02:47:40 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 02:47:40 INFO  CalculatorMainPage:120 - 5
+2021-08-12 02:47:40 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 02:47:40 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:40 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:40 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:41 INFO  CalculatorMainPage:119 - 3 , 3
+2021-08-12 02:47:41 INFO  CalculatorMainPage:120 - /
+2021-08-12 02:47:41 INFO  CalculatorMainPage:129 - Key --> : 395 , 353
+2021-08-12 02:47:42 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 02:47:42 INFO  CalculatorMainPage:120 - 1
+2021-08-12 02:47:42 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 02:47:42 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 02:47:42 INFO  CalculatorMainPage:120 - 5
+2021-08-12 02:47:42 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 02:47:42 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:42 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:42 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:43 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 02:47:43 INFO  CalculatorMainPage:120 - =
+2021-08-12 02:47:43 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 02:47:46 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_02_47_45.png
+2021-08-12 02:47:48 INFO  CalculatorMainPage:105 - 5
+wwwwc
+an@@n
+@@@@n
+DEBB-
+@@aa=
+
+
+2021-08-12 02:47:48 INFO  CalculatorMainPage:108 - 5length of string is : --> 1
+2021-08-12 02:47:48 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 02:47:48 INFO  CalculatorMainPage:120 - CE
+2021-08-12 02:47:48 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 02:47:51 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 02:47:51 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 02:47:51 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (f8aa905213684b4f4d6bb23cbc08bea0)] -> id: fullframe]for time : 10
+2021-08-12 02:47:51 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 02:47:51 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 02:47:51 INFO  CalculatorMainPage:120 - 2
+2021-08-12 02:47:51 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 02:47:51 INFO  CalculatorMainPage:119 - 1 , 4
+2021-08-12 02:47:51 INFO  CalculatorMainPage:120 - 5
+2021-08-12 02:47:51 INFO  CalculatorMainPage:129 - Key --> : 169 , 457
+2021-08-12 02:47:52 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:52 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:52 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:52 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:52 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:52 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:53 INFO  CalculatorMainPage:119 - 3 , 5
+2021-08-12 02:47:53 INFO  CalculatorMainPage:120 - -
+2021-08-12 02:47:53 INFO  CalculatorMainPage:129 - Key --> : 395 , 561
+2021-08-12 02:47:54 INFO  CalculatorMainPage:119 - 0 , 5
+2021-08-12 02:47:54 INFO  CalculatorMainPage:120 - 1
+2021-08-12 02:47:54 INFO  CalculatorMainPage:129 - Key --> : 56 , 561
+2021-08-12 02:47:54 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:54 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:54 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:55 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:55 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:55 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:55 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:47:55 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:47:55 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:47:56 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 02:47:56 INFO  CalculatorMainPage:120 - =
+2021-08-12 02:47:56 INFO  CalculatorMainPage:129 - Key --> : 508 , 665
+2021-08-12 02:47:58 INFO  TestBase:71 - snapshot taken at /Users/guptaabi/ProjectDir/xendit/src/main/resources/Screenshots/Result_12_08_2021_02_47_58.png
+2021-08-12 02:47:59 INFO  CalculatorMainPage:105 - 1500
+“MB
+GEEK].
+DEBB-
+EJDnE]
+
+
+2021-08-12 02:47:59 INFO  CalculatorMainPage:108 - 1500length of string is : --> 4
+2021-08-12 02:47:59 INFO  CalculatorMainPage:119 - 4 , 2
+2021-08-12 02:47:59 INFO  CalculatorMainPage:120 - CE
+2021-08-12 02:47:59 INFO  CalculatorMainPage:129 - Key --> : 508 , 249
+2021-08-12 02:48:02 INFO  CalculatorMainPage:72 - Fetch Calculator size details
+2021-08-12 02:48:02 INFO  CalculatorMainPage:73 - Height of Chrome Window (y) : 1036   width of Chrome Window (x) : 1792
+2021-08-12 02:48:02 INFO  WaitHelper:93 - waiting for the element [[ChromeDriver: chrome on MAC (f8aa905213684b4f4d6bb23cbc08bea0)] -> id: fullframe]for time : 10
+2021-08-12 02:48:02 INFO  WaitHelper:107 - waiting for the element By.id: canvasfor time : 10
+2021-08-12 02:48:02 INFO  CalculatorMainPage:119 - 0 , 4
+2021-08-12 02:48:02 INFO  CalculatorMainPage:120 - 4
+2021-08-12 02:48:02 INFO  CalculatorMainPage:129 - Key --> : 56 , 457
+2021-08-12 02:48:02 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:48:02 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:48:02 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:48:03 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:48:03 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:48:03 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:48:04 INFO  CalculatorMainPage:119 - 3 , 6
+2021-08-12 02:48:04 INFO  CalculatorMainPage:120 - +
+2021-08-12 02:48:04 INFO  CalculatorMainPage:129 - Key --> : 395 , 665
+2021-08-12 02:48:04 INFO  CalculatorMainPage:119 - 1 , 5
+2021-08-12 02:48:04 INFO  CalculatorMainPage:120 - 2
+2021-08-12 02:48:04 INFO  CalculatorMainPage:129 - Key --> : 169 , 561
+2021-08-12 02:48:05 INFO  CalculatorMainPage:119 - 0 , 6
+2021-08-12 02:48:05 INFO  CalculatorMainPage:120 - 0
+2021-08-12 02:48:05 INFO  CalculatorMainPage:129 - Key --> : 56 , 665
+2021-08-12 02:48:06 INFO  CalculatorMainPage:119 - 4 , 6
+2021-08-12 02:48:06 INFO  CalculatorMainPage:120 - =
+2021-08-12 02:48:06 INFO  CalculatorMainPage:129 - Key --> : 508 , 665

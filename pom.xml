@@ -26,6 +26,7 @@
         <opencsv-version>4.1</opencsv-version>
         <joda-time-version>2.9.1</joda-time-version>
         <testng-version>6.9.10</testng-version>
+        <wbedrivermanager.version>4.4.3</wbedrivermanager.version>
     </properties>
 
     <dependencies>
@@ -68,6 +69,12 @@
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>${log4j-version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>${wbedrivermanager.version}</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->

@@ -1,5 +1,6 @@
 package com.test.xendit.helper.browserConfiguration;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -25,12 +26,16 @@ public class ChromeBrowser {
 
 	public WebDriver getChromeDriver(String path) {
 		ChromeOptions cap = getChromeOptions();
-		if (System.getProperty("os.name").contains("Linux")) {
+		WebDriverManager.chromedriver().setup();
+		return new ChromeDriver(cap);
+
+		/*if (System.getProperty("os.name").contains("Linux")) {
 			System.setProperty("webdriver.chrome.driver",
 					ResourceHelper.getResourcePath(path + "//Linux//chromedriver"));
 			return new ChromeDriver(cap);
 
 		} else if (System.getProperty("os.name").contains("Windows")) {
+			path.replaceAll("//","\\\\");
 			System.setProperty("webdriver.chrome.driver",
 					ResourceHelper.getResourcePath(path + "\\Windows\\chromedriver.exe"));
 			return new ChromeDriver(cap);
@@ -40,7 +45,7 @@ public class ChromeBrowser {
 			System.setProperty("webdriver.chrome.driver", ResourceHelper.getResourcePath(path + "//Mac//chromedriver"));
 			return new ChromeDriver(cap);
 		}
-		return null;
+		return null;*/
 	}
 
 }

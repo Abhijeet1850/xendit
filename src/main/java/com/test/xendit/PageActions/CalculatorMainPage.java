@@ -42,7 +42,7 @@ public class CalculatorMainPage {
     public static int xmid;
     public static int ymid;
 
-    public static final List<String> CALC_KEYS = Arrays.asList("MC", "MR", "M+", "M-", "CE", "%", "*", "-", "+", "+/-", ".", "/");
+    public static final List<String> CALC_KEYS = Arrays.asList("MC", "MR", "M+", "M-", "CE", "*", "-", "+", "+/-", ".", "/");
 
     @FindBy(id = "fullframe")
     WebElement calcFrame;
@@ -70,7 +70,7 @@ public class CalculatorMainPage {
 
     public void fetchCalculatorDetails() {
         log.info("Fetch Calculator size details");
-        System.out.println("Height of Chrome Window (y) : " + driver.manage().window().getSize().getHeight() + "   width of Chrome Window (x) : " + driver.manage().window().getSize().getWidth());
+        log.info("Height of Chrome Window (y) : " + driver.manage().window().getSize().getHeight() + "   width of Chrome Window (x) : " + driver.manage().window().getSize().getWidth());
         wait.waitForFrameBeforeSwitching(calcFrame, reader.getExplicitWait(), reader.getPollingTime());
         calculator = wait.waitForElementToBeClickable(By.id("canvas"), reader.getExplicitWait(), reader.getPollingTime());
         xmid = (int) calculator.getRect().getWidth() / 2;
@@ -81,7 +81,7 @@ public class CalculatorMainPage {
     public void enterNumberOrOperator(String key) {
         if (CALC_KEYS.contains(key))
             performCalculatorKeyclick(key);
-        else if (key.equals("=") || key.equals("sqrt") || key.equals("1/x")) {
+        else if (key.equals("=") || key.equals("sqrt") || key.equals("1/x") || key.equals("%")) {
             performCalculatorKeyclick(key);
             wait.waitForMillis(2000);
             String resultImage = tb.captureElement(calculator, "Result");
@@ -102,10 +102,10 @@ public class CalculatorMainPage {
 
     public void extractActualResult(String resultImage) {
         String output = ocrLib.getTextFromImage(resultImage);
-        System.out.println(output);
+        log.info(output);
         String[] result = output.split("\\R");
         actualResult = result[0].trim();
-        System.out.println(actualResult + "length of string is : --> " + actualResult.length());
+        log.info(actualResult + "length of string is : --> " + actualResult.length());
     }
 
     public void performCalculatorKeyclick(String calKey) {
@@ -116,8 +116,8 @@ public class CalculatorMainPage {
 
     public Point getOffset(String key) {
         Point position = CalculatorMatrix.getKeyPosition(key);
-        System.out.println(position.getX() + " , " + position.getY());
-        System.out.println(key);
+        log.info(position.getX() + " , " + position.getY());
+        log.info(key);
         return getOffsetPosition(position);
     }
 
@@ -126,7 +126,7 @@ public class CalculatorMainPage {
         int xrecord = calculator.getRect().getWidth() / 5;
         int xOffset = xrecord * position.getX() + (int) (xrecord / 2);
         int yOffset = yrecord * position.getY() + (int) (yrecord * 0.4);
-        System.out.println("Key --> : " + xOffset + " , " + yOffset);
+        log.info("Key --> : " + xOffset + " , " + yOffset);
         return new Point(xOffset, yOffset);
     }
 

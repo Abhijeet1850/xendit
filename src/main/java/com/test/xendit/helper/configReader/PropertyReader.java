@@ -3,71 +3,75 @@ package com.test.xendit.helper.configReader;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
+
 import com.test.xendit.helper.browserConfiguration.BrowserType;
 import com.test.xendit.helper.resource.ResourceHelper;
 
 public class PropertyReader {
 
-	public static FileInputStream fis;
-	public static Properties mvConfig = new Properties();
+    public static FileInputStream fis;
+    public static Properties mvConfig = new Properties();
+    public static String propertyFilePath = "//src//main//resources//ConfigFile//xendit.properties";
 
-	public PropertyReader() {
-		try {
-			fis = new FileInputStream(
-					ResourceHelper.getResourcePath("//src//main//resources//ConfigFile//xendit.properties"));
-			mvConfig.load(fis);
-		} catch (IOException e) {
-			System.out.println(e);
-		} finally {
-			try {
-				fis.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-		}
-	}
+    public PropertyReader() {
+        try {
+            if (System.getProperty("os.name").contains("Windows"))
+                propertyFilePath = propertyFilePath.replaceAll("//", "\\\\");
+            fis = new FileInputStream(
+                    ResourceHelper.getResourcePath(propertyFilePath));
+            mvConfig.load(fis);
+        } catch (IOException e) {
+            System.out.println(e);
+        } finally {
+            try {
+                fis.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
 
-	public Long getImplicitWait() {
-		return Long.parseLong(mvConfig.getProperty("implicitwait"));
-	}
+    public Long getImplicitWait() {
+        return Long.parseLong(mvConfig.getProperty("implicitwait"));
+    }
 
-	public Long getExplicitWait() {
-		return Long.parseLong(mvConfig.getProperty("explicitwait"));
-	}
-	
-	public Long getLessExplicitWait() {
-		return Long.parseLong(mvConfig.getProperty("LessExplicitWait"));
-	}
+    public Long getExplicitWait() {
+        return Long.parseLong(mvConfig.getProperty("explicitwait"));
+    }
 
-	public Long getPageLoadTime() {
-		return Long.parseLong(mvConfig.getProperty("pageloadTime"));
-	}
+    public Long getLessExplicitWait() {
+        return Long.parseLong(mvConfig.getProperty("LessExplicitWait"));
+    }
 
-	public Long getPollingTime() {
-		return Long.parseLong(mvConfig.getProperty("pollingTime"));
-	}
+    public Long getPageLoadTime() {
+        return Long.parseLong(mvConfig.getProperty("pageloadTime"));
+    }
 
-	public BrowserType getBroswerType() {
-		return BrowserType.valueOf(mvConfig.getProperty("broswertype"));
-	}
+    public Long getPollingTime() {
+        return Long.parseLong(mvConfig.getProperty("pollingTime"));
+    }
 
-	public String getBroswerName() {
-		return mvConfig.getProperty("browserName");
-	}
+    public BrowserType getBroswerType() {
+        return BrowserType.valueOf(mvConfig.getProperty("browsertype"));
+    }
 
-	public String getHost() {
-		return mvConfig.getProperty("host");
-	}
+    public String getBroswerName() {
+        return mvConfig.getProperty("browserName");
+    }
 
-	public String getBroswerVersion() {
-		return mvConfig.getProperty("browserVersion");
-	}
+    public String getHost() {
+        return mvConfig.getProperty("host");
+    }
 
-	public String getPlatform() {
-		return mvConfig.getProperty("platform");
-	}
+    public String getBroswerVersion() {
+        return mvConfig.getProperty("browserVersion");
+    }
 
-	public String getAppRedirectURL() {
-		return mvConfig.getProperty("AppLogin_NotSuccessFull_URL");
-	}
+    public String getPlatform() {
+        return mvConfig.getProperty("platform");
+    }
+
+    public String getAppRedirectURL() {
+        return mvConfig.getProperty("AppLogin_NotSuccessFull_URL");
+    }
 }
